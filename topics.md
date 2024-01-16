@@ -643,6 +643,7 @@
 
 ## others 
 
+- [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 - [qwertytiles/qwertytiles.github.io](https://github.com/qwertytiles/qwertytiles.github.io) - A speed typing game.
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
 - [rogeduardo/afpfs-ng](https://github.com/rogeduardo/afpfs-ng) - afpfs-ng/libafpclient is an open source client for the Apple Filing Protocol
