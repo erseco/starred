@@ -306,6 +306,7 @@
 
 ## PHP 
 
+- [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
 - [al4r0/v4char-web](https://github.com/al4r0/v4char-web) - 
 - [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed password recovery
