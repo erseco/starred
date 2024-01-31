@@ -643,6 +643,7 @@
 
 ## others 
 
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 - [qwertytiles/qwertytiles.github.io](https://github.com/qwertytiles/qwertytiles.github.io) - A speed typing game.
