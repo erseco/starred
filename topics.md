@@ -126,6 +126,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
+- [wordpress](#wordpress)
 - [xcode](#xcode)
 
 ## ai 
@@ -300,6 +301,7 @@
 
 ## docker 
 
+- [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [erseco/alpine-moodle](https://github.com/erseco/alpine-moodle) - Moodle docker image based on Alpine Linux
 - [crazy-max/ghaction-docker-buildx](https://github.com/crazy-max/ghaction-docker-buildx) - :octocat: GitHub Action to set up Docker Buildx
@@ -415,6 +417,7 @@
 
 ## hacktoberfest 
 
+- [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [JJ/hoborg](https://github.com/JJ/hoborg) - A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century
@@ -888,6 +891,7 @@
 
 ## php 
 
+- [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [willianmano/moodle-theme_moove](https://github.com/willianmano/moodle-theme_moove) - A Moodle Boost child theme
 - [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
 - [potsky/PimpMyLog](https://github.com/potsky/PimpMyLog) - 🍭 Log viewer for your web server
@@ -1119,6 +1123,10 @@
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [jenkinsci/packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
+
+## wordpress 
+
+- [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 
 ## xcode 
 
