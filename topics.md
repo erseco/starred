@@ -649,6 +649,8 @@
 
 ## others 
 
+- [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js) - Speech Markdown grammar, parser, and formatters for use with JavaScript.
+- [speechmarkdown/docs-speechmarkdown-reference](https://github.com/speechmarkdown/docs-speechmarkdown-reference) - The open source version of the Speech Markdown Reference docs.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [efchatz/pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
