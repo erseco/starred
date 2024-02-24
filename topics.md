@@ -649,6 +649,7 @@
 
 ## others 
 
+- [catedu/fp-distancia-plugin-edicion-materiales](https://github.com/catedu/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js) - Speech Markdown grammar, parser, and formatters for use with JavaScript.
 - [speechmarkdown/docs-speechmarkdown-reference](https://github.com/speechmarkdown/docs-speechmarkdown-reference) - The open source version of the Speech Markdown Reference docs.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
