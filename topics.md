@@ -417,6 +417,7 @@
 
 ## hacktoberfest 
 
+- [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
