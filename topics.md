@@ -885,7 +885,7 @@
 
 - [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
-- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed password recovery
+- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - distributed password cracking with Hashcat
 - [1r0dm480/CTF-Wr1T3uPs](https://github.com/1r0dm480/CTF-Wr1T3uPs) - Repository to store summaries of CTF challenges
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
