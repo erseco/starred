@@ -312,7 +312,7 @@
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
 - [al4r0/v4char-web](https://github.com/al4r0/v4char-web) - 
-- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - A Hashcat wrapper for distributed password recovery
+- [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - distributed password cracking with Hashcat
 - [Nakiami/mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [potsky/PimpMyLog](https://github.com/potsky/PimpMyLog) - 🍭 Log viewer for your web server
