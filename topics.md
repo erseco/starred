@@ -483,7 +483,7 @@
 
 ## javascript 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
@@ -651,7 +651,7 @@
 
 ## operating-system 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## osint 
 
@@ -712,7 +712,7 @@
 - [al4r0/v4char-web](https://github.com/al4r0/v4char-web) - 
 - [nasciiboy/tira-ecol](https://github.com/nasciiboy/tira-ecol) - recopilacion de la tira ecol
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
-- [codesecure-org/iOS-Hacktivation-Toolkit](https://github.com/codesecure-org/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
+- [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [nesfit/fitcrack](https://github.com/nesfit/fitcrack) - A hashcat-based distributed password cracking system
 - [jmsaugar/fastboard.io.back](https://github.com/jmsaugar/fastboard.io.back) - 
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
