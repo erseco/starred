@@ -109,7 +109,7 @@
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [jvns/julia-drawings](https://github.com/jvns/julia-drawings) - 
 - [cristinafsanz/notas-git](https://github.com/cristinafsanz/notas-git) - ✍️ Notas del libro Aprende Git y, de camino, GitHub (Juan Julián Merelo y Ángel Pablo Hinojosa)
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [ddouble/bsie](https://github.com/ddouble/bsie) - Bootstrap IE6 Compatible Library
 
 ## Clojure 
