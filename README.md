@@ -493,6 +493,7 @@
 
 ## Shell 
 
+- [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive Bash script terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
 - [stnby/AlpineDroid](https://github.com/stnby/AlpineDroid) - Alpine Linux chroot environment for your Android smart device. (mirror)
