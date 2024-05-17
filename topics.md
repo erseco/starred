@@ -125,6 +125,7 @@
 - [testing](#testing)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
+- [virtual-reality](#virtual-reality)
 - [visual-basic](#visual-basic)
 - [web](#web)
 - [webapp](#webapp)
@@ -668,6 +669,7 @@
 
 ## others 
 
+- [threethan/LightningBrowser](https://github.com/threethan/LightningBrowser) - A powerful Gecko-based browser for Android TV and VR
 - [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [trap-bytes/hauditor](https://github.com/trap-bytes/hauditor) - hauditor is a tool designed to analyze the security headers returned by a web page.
 - [otacke/h5p-todo](https://github.com/otacke/h5p-todo) - This is just a list where I publicly drop and re-arrange my ideas and todos for H5P stuff
@@ -1122,6 +1124,10 @@
 
 - [mechboxes/mech](https://github.com/mechboxes/mech) - Easy command line virtual machines for VMWare
 - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
+
+## virtual-reality 
+
+- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - An app launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility.
 
 ## visual-basic 
 
