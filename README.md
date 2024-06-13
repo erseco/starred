@@ -314,6 +314,7 @@
 
 ## PHP 
 
+- [nmarafo/aceinlineassistant](https://github.com/nmarafo/aceinlineassistant) - Atto editor plugin
 - [catedu/fp-distancia-plugin-edicion-materiales](https://github.com/catedu/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
