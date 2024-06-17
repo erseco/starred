@@ -25,6 +25,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -251,6 +252,11 @@
 
 - [3rdIteration/btcrecover](https://github.com/3rdIteration/btcrecover) - BTCRecover is an open source wallet password and seed recovery tool. For seed based recovery, this is primarily useful in situations where you have lost/forgotten parts of your mnemonic, or have made 
 - [doktor83/SRBMiner-Multi](https://github.com/doktor83/SRBMiner-Multi) - CPU & AMD GPU cryptocurrency miner
+
+## cryptography 
+
+- [1r0dm480/CTF-Wr1T3uPs](https://github.com/1r0dm480/CTF-Wr1T3uPs) - Repository to store summaries of CTF challenges
+- [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 
 ## css 
 
