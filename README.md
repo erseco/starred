@@ -31,7 +31,6 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Papyrus](#papyrus)
 - [Perl](#perl)
 - [Python](#python)
@@ -306,6 +305,7 @@
 - [evilsocket/bettercap](https://github.com/evilsocket/bettercap) - DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap
 - [iblancasa/granadageek](https://github.com/iblancasa/granadageek) - 
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [fbuccioni/mysql-routines-collection](https://github.com/fbuccioni/mysql-routines-collection) - UDFs Writen in MySQL language.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [firehot/Cocos2d-x-RevengeOfThePigs](https://github.com/firehot/Cocos2d-x-RevengeOfThePigs) - This is a game named Revenge of the pigs just like Angry Birds
 - [fvalverd/Android-Easy-Rooting-Toolkit](https://github.com/fvalverd/Android-Easy-Rooting-Toolkit) - Easy Rooting Toolkit for Android
@@ -333,10 +333,6 @@
 - [PrestaShop/PrestaShop-webservice-lib](https://github.com/PrestaShop/PrestaShop-webservice-lib) - PHP client for PrestaShop Webservices
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
-
-## PLpgSQL 
-
-- [fbuccioni/mysql-routines-collection](https://github.com/fbuccioni/mysql-routines-collection) - UDFs Writen in MySQL language.
 
 ## Papyrus 
 
