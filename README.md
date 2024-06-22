@@ -340,6 +340,7 @@
 
 ## Perl 
 
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper3.0
 - [aspiers/mysqldiff](https://github.com/aspiers/mysqldiff) - tool and CPAN suite backend for comparing MySQL database schemas
 - [DE-IBH/imvirt](https://github.com/DE-IBH/imvirt) - detects several virtualizations
