@@ -314,6 +314,7 @@
 
 ## PHP 
 
+- [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
 - [nmarafo/aceinlineassistant](https://github.com/nmarafo/aceinlineassistant) - Atto editor plugin
 - [catedu/fp-distancia-plugin-edicion-materiales](https://github.com/catedu/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
