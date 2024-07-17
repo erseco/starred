@@ -122,6 +122,7 @@
 
 ## Dockerfile 
 
+- [jimsihk/alpine-php-nginx](https://github.com/jimsihk/alpine-php-nginx) - Docker image with NGINX & PHP-FPM on Alpine Linux
 - [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
 - [jusbrasil/github-action-s3cmd](https://github.com/jusbrasil/github-action-s3cmd) - S3cmd GitHub Action
 
@@ -498,6 +499,7 @@
 
 ## Shell 
 
+- [frozzare/docker-wptest](https://github.com/frozzare/docker-wptest) - 🐳 Run WordPress tests in a Docker container
 - [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive Bash script terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
