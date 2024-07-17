@@ -684,6 +684,7 @@
 
 ## others 
 
+- [jimsihk/alpine-php-nginx](https://github.com/jimsihk/alpine-php-nginx) - Docker image with NGINX & PHP-FPM on Alpine Linux
 - [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [nmarafo/aceinlineassistant](https://github.com/nmarafo/aceinlineassistant) - Atto editor plugin
@@ -1180,6 +1181,7 @@
 
 ## wordpress 
 
+- [frozzare/docker-wptest](https://github.com/frozzare/docker-wptest) - 🐳 Run WordPress tests in a Docker container
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 
 ## xcode 
