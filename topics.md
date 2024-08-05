@@ -663,6 +663,7 @@
 
 ## open-source 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
 
