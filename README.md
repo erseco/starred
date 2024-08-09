@@ -73,7 +73,6 @@
 - [exoeconomy/EXOS-Qt](https://github.com/exoeconomy/EXOS-Qt) - The EXO Economy Blockchain Official Wallet
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [artclarke/humble-video](https://github.com/artclarke/humble-video) - Humble Video: Demuxing, Decoding, Filtering, Encoding and Muxing of 100's of video and audio formats and Codecs from the JVM
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -94,6 +93,7 @@
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [hughperkins/DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [mrScorpio/Gopher360](https://github.com/mrScorpio/Gopher360) - Gopher, sometimes referred to as Gopher360, is an out-of-the-box tool for turning 360 or XOne controller input into mouse & keyboard input. Made with couch PC users in mind.
 - [TheGameCreators/FPS-Creator-Classic](https://github.com/TheGameCreators/FPS-Creator-Classic) - Source code and files for FPS Creator Classic
 - [ErisBlastar/cplusequality](https://github.com/ErisBlastar/cplusequality) - Feminist Software Foundation C+=, a new language for us feminists
