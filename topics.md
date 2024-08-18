@@ -61,6 +61,7 @@
 - [haskell](#haskell)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [java](#java)
@@ -487,6 +488,10 @@
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
+
+## https 
+
+- [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 
 ## image-processing 
 
