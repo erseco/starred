@@ -20,6 +20,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [coding](#coding)
@@ -226,6 +227,10 @@
 
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+## c-plus-plus 
+
+- [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 
 ## chatgpt 
 
