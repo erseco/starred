@@ -211,7 +211,7 @@
 - [YJDoc2/8086-emulator-web](https://github.com/YJDoc2/8086-emulator-web) - Repository for 8086 emulator web implementation
 - [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [fleapower/Google-Script-Contacts-Sync](https://github.com/fleapower/Google-Script-Contacts-Sync) - Synchronize Google contacts across multiple accounts.
 - [jmsaugar/fastboard.io.back](https://github.com/jmsaugar/fastboard.io.back) - 
 - [shashanoid/Simpdf](https://github.com/shashanoid/Simpdf) - Simple PDF text editor
