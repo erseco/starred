@@ -74,7 +74,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [artclarke/humble-video](https://github.com/artclarke/humble-video) - Humble Video: Demuxing, Decoding, Filtering, Encoding and Muxing of 100's of video and audio formats and Codecs from the JVM
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [dugo/practicas-sistemas-ugr](https://github.com/dugo/practicas-sistemas-ugr) - Forja pública donde iré subiendo las prácticas de Ing.Tec.Inf. de Sistemas (UGR)
 
