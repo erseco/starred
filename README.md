@@ -220,7 +220,7 @@
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [jberger/Galileo](https://github.com/jberger/Galileo) - A Simple Modern Perl CMS
 - [amolinaalvarez/discourse-lever-markdown](https://github.com/amolinaalvarez/discourse-lever-markdown) - 
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [JJ/nodeo](https://github.com/JJ/nodeo) - Simple evolutionary algorithm in JavaScript in CommonJS format, for node.js and anything else.
 - [JJ/doctorado-ciencia-abierta](https://github.com/JJ/doctorado-ciencia-abierta) - Material para el curso de formación de doctorados sobre Ciencia Abierta
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
