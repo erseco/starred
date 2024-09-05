@@ -164,7 +164,6 @@
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [angrykoala/browsers-automation-and-koalas](https://github.com/angrykoala/browsers-automation-and-koalas) - Browsers, Automation, and Koalas
 - [eugenekolo/sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
-- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
 - [pacastillo/swap1516](https://github.com/pacastillo/swap1516) - Repositorio de SWAP para el curso 2015-2016
 - [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
@@ -184,6 +183,7 @@
 - [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool
 - [jsanchezv/JSpeccy](https://github.com/jsanchezv/JSpeccy) - A multiplatform ZX Spectrum emulator written in Java
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [hiteshsahu/ECommerce-App-Android](https://github.com/hiteshsahu/ECommerce-App-Android) - E-Commerce App for Android with Material Design Pattern
 - [alvinj/AndroidAsyncTaskExample](https://github.com/alvinj/AndroidAsyncTaskExample) - This project provides an Android AsyncTask example (and a REST example)
 - [nicolasgramlich/AndEngineExamples](https://github.com/nicolasgramlich/AndEngineExamples) - AndEngine - Examples
