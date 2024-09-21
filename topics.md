@@ -754,7 +754,7 @@
 - [murtazahassan/Tello-Object-Tracking](https://github.com/murtazahassan/Tello-Object-Tracking) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [matthewwall/weewx-interceptor](https://github.com/matthewwall/weewx-interceptor) - weewx driver that intercepts web traffic from internet 'bridge' devices such as Acurite Access, ObserverIP, OS LW30x, LaCross GW1000U, FineOffset GW1000
 - [hashcat/princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm
 - [keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper3.0
