@@ -183,7 +183,7 @@
 - [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Software Plagiarism & Collusion Detection
 - [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool
 - [jsanchezv/JSpeccy](https://github.com/jsanchezv/JSpeccy) - A multiplatform ZX Spectrum emulator written in Java
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [hiteshsahu/ECommerce-App-Android](https://github.com/hiteshsahu/ECommerce-App-Android) - E-Commerce App for Android with Material Design Pattern
 - [alvinj/AndroidAsyncTaskExample](https://github.com/alvinj/AndroidAsyncTaskExample) - This project provides an Android AsyncTask example (and a REST example)
 - [nicolasgramlich/AndEngineExamples](https://github.com/nicolasgramlich/AndEngineExamples) - AndEngine - Examples
