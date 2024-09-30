@@ -718,7 +718,7 @@
 - [jimsihk/alpine-php-nginx](https://github.com/jimsihk/alpine-php-nginx) - Docker image with NGINX & PHP-FPM on Alpine Linux
 - [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
-- [nmarafo/aceinlineassistant](https://github.com/nmarafo/aceinlineassistant) - Atto editor plugin
+- [nmarafo/moodle-atto_aceinlineassistant](https://github.com/nmarafo/moodle-atto_aceinlineassistant) - Atto editor plugin
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [DrBeef/Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest
 - [threethan/LightningBrowser](https://github.com/threethan/LightningBrowser) - A powerful Gecko-based browser for Android TV and VR
