@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [trap-bytes/hauditor](https://github.com/trap-bytes/hauditor) - hauditor is a tool designed to analyze the security headers returned by a web page.
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
@@ -353,6 +354,7 @@
 
 ## Python 
 
+- [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [deseven/ibroadcast-uploader](https://github.com/deseven/ibroadcast-uploader) - Python3 upload script for iBroadcast
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
