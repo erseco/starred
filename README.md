@@ -41,6 +41,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -158,7 +159,6 @@
 ## HTML 
 
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [nasciiboy/tira-ecol](https://github.com/nasciiboy/tira-ecol) - recopilacion de la tira ecol
 - [matildagame/matildagame.github.io](https://github.com/matildagame/matildagame.github.io) - 
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -543,6 +543,10 @@
 
 - [rubendivall/survey-opt-in-ps-17](https://github.com/rubendivall/survey-opt-in-ps-17) - Survey opt-in for Google Merchant Center Prestashop 1.7
 - [rubendivall/PrestaShop-SEO-Snippets](https://github.com/rubendivall/PrestaShop-SEO-Snippets) - Various snippets to imporve SEO in Prestashop
+
+## Svelte 
+
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## Swift 
 
