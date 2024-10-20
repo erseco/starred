@@ -717,6 +717,7 @@
 
 ## others 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [lkrms/gp-saml-gui](https://github.com/lkrms/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [deseven/ibroadcast-uploader](https://github.com/deseven/ibroadcast-uploader) - Python3 upload script for iBroadcast
