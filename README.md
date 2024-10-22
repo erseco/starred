@@ -355,6 +355,7 @@
 
 ## Python 
 
+- [scholer/pptx-downsizer](https://github.com/scholer/pptx-downsizer) - Python tool for downsizing Microsoft PowerPoint presentations (pptx) files.
 - [lkrms/gp-saml-gui](https://github.com/lkrms/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -506,6 +507,8 @@
 
 ## Shell 
 
+- [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
+- [L-U-C-K-Y/Reduce-PowerPoint-File-Size](https://github.com/L-U-C-K-Y/Reduce-PowerPoint-File-Size) - A script to reduce the size of PowerPoint files
 - [frozzare/docker-wptest](https://github.com/frozzare/docker-wptest) - 🐳 Run WordPress tests in a Docker container
 - [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
