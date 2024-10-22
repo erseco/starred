@@ -717,6 +717,9 @@
 
 ## others 
 
+- [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
+- [scholer/pptx-downsizer](https://github.com/scholer/pptx-downsizer) - Python tool for downsizing Microsoft PowerPoint presentations (pptx) files.
+- [L-U-C-K-Y/Reduce-PowerPoint-File-Size](https://github.com/L-U-C-K-Y/Reduce-PowerPoint-File-Size) - A script to reduce the size of PowerPoint files
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [lkrms/gp-saml-gui](https://github.com/lkrms/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
