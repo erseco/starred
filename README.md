@@ -554,6 +554,7 @@
 
 ## Swift 
 
+- [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [SokoloffA/radiola](https://github.com/SokoloffA/radiola) - 
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
