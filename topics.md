@@ -464,7 +464,6 @@
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [JJ/hoborg](https://github.com/JJ/hoborg) - A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century
 - [erseco/ugr_tfg](https://github.com/erseco/ugr_tfg) - Trabajo de Fin de Grado - Análisis de plataforma de recursos de apoyo a la docencia Prado2
 - [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
