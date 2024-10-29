@@ -794,7 +794,7 @@
 - [matildagame/battle](https://github.com/matildagame/battle) - 
 - [matildagame/matildagame.github.io](https://github.com/matildagame/matildagame.github.io) - 
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
-- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Software Plagiarism & Collusion Detection
+- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection
 - [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [Nakiami/mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP
