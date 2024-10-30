@@ -355,6 +355,7 @@
 
 ## Python 
 
+- [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [scholer/pptx-downsizer](https://github.com/scholer/pptx-downsizer) - Python tool for downsizing Microsoft PowerPoint presentations (pptx) files.
 - [lkrms/gp-saml-gui](https://github.com/lkrms/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
 - [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML
