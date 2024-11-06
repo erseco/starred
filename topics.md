@@ -717,6 +717,7 @@
 
 ## others 
 
+- [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
 - [scholer/pptx-downsizer](https://github.com/scholer/pptx-downsizer) - Python tool for downsizing Microsoft PowerPoint presentations (pptx) files.
 - [L-U-C-K-Y/Reduce-PowerPoint-File-Size](https://github.com/L-U-C-K-Y/Reduce-PowerPoint-File-Size) - A script to reduce the size of PowerPoint files
