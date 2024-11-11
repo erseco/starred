@@ -212,7 +212,6 @@
 - [JJ/hoborg](https://github.com/JJ/hoborg) - A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [YJDoc2/8086-emulator-web](https://github.com/YJDoc2/8086-emulator-web) - Repository for 8086 emulator web implementation
-- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [fleapower/Google-Script-Contacts-Sync](https://github.com/fleapower/Google-Script-Contacts-Sync) - Synchronize Google contacts across multiple accounts.
@@ -593,6 +592,7 @@
 
 ## Vue 
 
+- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 
