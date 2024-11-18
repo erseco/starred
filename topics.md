@@ -1192,7 +1192,7 @@
 
 ## virtual-reality 
 
-- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 70K sidequest downloads!
+- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 80K sidequest downloads!
 
 ## visual-basic 
 
