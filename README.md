@@ -170,6 +170,7 @@
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
 - [pacastillo/swap1516](https://github.com/pacastillo/swap1516) - Repositorio de SWAP para el curso 2015-2016
 - [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 
 ## Haskell 
@@ -310,7 +311,6 @@
 - [iblancasa/granadageek](https://github.com/iblancasa/granadageek) - 
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [fbuccioni/mysql-routines-collection](https://github.com/fbuccioni/mysql-routines-collection) - UDFs Writen in MySQL language.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [firehot/Cocos2d-x-RevengeOfThePigs](https://github.com/firehot/Cocos2d-x-RevengeOfThePigs) - This is a game named Revenge of the pigs just like Angry Birds
 - [fvalverd/Android-Easy-Rooting-Toolkit](https://github.com/fvalverd/Android-Easy-Rooting-Toolkit) - Easy Rooting Toolkit for Android
 - [coliff/bootstrap-ie7](https://github.com/coliff/bootstrap-ie7) - Bootstrap 3 CSS for IE7
