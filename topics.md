@@ -55,6 +55,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
@@ -441,6 +442,10 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 
+## good-first-issue 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+
 ## google 
 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -717,6 +722,7 @@
 
 ## others 
 
+- [tarugoconf/top](https://github.com/tarugoconf/top) - Lume theme to create a website for an event
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
 - [scholer/pptx-downsizer](https://github.com/scholer/pptx-downsizer) - Python tool for downsizing Microsoft PowerPoint presentations (pptx) files.
