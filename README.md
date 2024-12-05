@@ -160,6 +160,7 @@
 
 ## HTML 
 
+- [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [nasciiboy/tira-ecol](https://github.com/nasciiboy/tira-ecol) - recopilacion de la tira ecol
 - [matildagame/matildagame.github.io](https://github.com/matildagame/matildagame.github.io) - 
