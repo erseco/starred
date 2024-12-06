@@ -136,6 +136,7 @@
 - [vagrant](#vagrant)
 - [virtual-reality](#virtual-reality)
 - [visual-basic](#visual-basic)
+- [vpn](#vpn)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -319,6 +320,7 @@
 
 ## deep-learning 
 
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
 
@@ -704,6 +706,7 @@
 
 ## openai 
 
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
@@ -1208,6 +1211,14 @@
 ## visual-basic 
 
 - [jeanValverde/rosco](https://github.com/jeanValverde/rosco) - Rosco de pasapalabra en Excel y una base de datos en Access
+
+## vpn 
+
+- [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
+- [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## web 
 
