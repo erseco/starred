@@ -875,7 +875,7 @@
 - [amolinaalvarez/discourse-lever-markdown](https://github.com/amolinaalvarez/discourse-lever-markdown) - 
 - [davidstrauss/google-drive-recursive-ownership](https://github.com/davidstrauss/google-drive-recursive-ownership) - Tool to recursively give away file and document ownership to another user.
 - [JJ/nodeo](https://github.com/JJ/nodeo) - Simple evolutionary algorithm in JavaScript in CommonJS format, for node.js and anything else.
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [JJ/doctorado-ciencia-abierta](https://github.com/JJ/doctorado-ciencia-abierta) - Material para el curso de formación de doctorados sobre Ciencia Abierta
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [wummel/linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
