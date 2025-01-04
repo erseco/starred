@@ -292,7 +292,7 @@
 - [otacke/h5p-todo](https://github.com/otacke/h5p-todo) - This is just a list where I publicly drop and re-arrange my ideas and todos for H5P stuff
 - [speechmarkdown/docs-speechmarkdown-reference](https://github.com/speechmarkdown/docs-speechmarkdown-reference) - The open source version of the Speech Markdown Reference docs.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [doktor83/SRBMiner-Multi](https://github.com/doktor83/SRBMiner-Multi) - CPU & AMD GPU cryptocurrency miner
+- [doktor83/SRBMiner-Multi](https://github.com/doktor83/SRBMiner-Multi) - CPU & GPU cryptocurrency miner
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 - [jeanValverde/rosco](https://github.com/jeanValverde/rosco) - Rosco de pasapalabra en Excel y una base de datos en Access
 - [getmanfred/offers](https://github.com/getmanfred/offers) - Offers managed by Manfred Talent Agency
