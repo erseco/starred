@@ -770,7 +770,6 @@
 - [goFrendiAsgard/markdown-to-moodle-xml](https://github.com/goFrendiAsgard/markdown-to-moodle-xml) - Convert markdown to moodle xml, So that you can enjoy life rather than doing copy-pasting like mere muggles
 - [timdams/moodle-book](https://github.com/timdams/moodle-book) - Convert markdown coruse to moodle book archive
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
-- [Pacific-College/Moodle-Course-Builder](https://github.com/Pacific-College/Moodle-Course-Builder) - Python Course Builder Tool for Moodle
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [YJDoc2/8086-emulator-web](https://github.com/YJDoc2/8086-emulator-web) - Repository for 8086 emulator web implementation
 - [uberspot/OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA) - A creative commons dataset of trivia questions and answers
