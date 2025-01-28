@@ -377,7 +377,6 @@
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Sequoia support!
 - [goFrendiAsgard/markdown-to-moodle-xml](https://github.com/goFrendiAsgard/markdown-to-moodle-xml) - Convert markdown to moodle xml, So that you can enjoy life rather than doing copy-pasting like mere muggles
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
-- [Pacific-College/Moodle-Course-Builder](https://github.com/Pacific-College/Moodle-Course-Builder) - Python Course Builder Tool for Moodle
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
