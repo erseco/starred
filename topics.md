@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
+- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -57,6 +58,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
+- [graphql](#graphql)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -165,6 +167,10 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+## api 
+
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 ## artificial-intelligence 
 
@@ -437,6 +443,7 @@
 
 ## golang 
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -455,6 +462,10 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [fleapower/Google-Script-Contacts-Sync](https://github.com/fleapower/Google-Script-Contacts-Sync) - Synchronize Google contacts across multiple accounts.
 
+## graphql 
+
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+
 ## hackathon 
 
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -471,6 +482,7 @@
 
 ## hacktoberfest 
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
