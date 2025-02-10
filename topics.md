@@ -130,6 +130,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
+- [symfony](#symfony)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -482,6 +483,7 @@
 
 ## hacktoberfest 
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
@@ -743,6 +745,7 @@
 
 ## others 
 
+- [pac4j/casserverpac4j](https://github.com/pac4j/casserverpac4j) - CAS server for pac4j demos
 - [tarugoconf/top](https://github.com/tarugoconf/top) - Lume theme to create a website for an event
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
@@ -1004,6 +1007,7 @@
 
 ## php 
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [willianmano/moodle-theme_moove](https://github.com/willianmano/moodle-theme_moove) - A Moodle Boost child theme
 - [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
@@ -1186,6 +1190,10 @@
 
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+## symfony 
+
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 
 ## telegram 
 
