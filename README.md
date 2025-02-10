@@ -160,6 +160,7 @@
 
 ## HTML 
 
+- [pac4j/casserverpac4j](https://github.com/pac4j/casserverpac4j) - CAS server for pac4j demos
 - [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [nasciiboy/tira-ecol](https://github.com/nasciiboy/tira-ecol) - recopilacion de la tira ecol
@@ -321,6 +322,7 @@
 
 ## PHP 
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
 - [nmarafo/moodle-atto_aceinlineassistant](https://github.com/nmarafo/moodle-atto_aceinlineassistant) - Atto editor plugin
 - [catedu/fp-distancia-plugin-edicion-materiales](https://github.com/catedu/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
