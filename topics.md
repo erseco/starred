@@ -811,7 +811,7 @@
 - [al4r0/v4char-web](https://github.com/al4r0/v4char-web) - 
 - [nasciiboy/tira-ecol](https://github.com/nasciiboy/tira-ecol) - recopilacion de la tira ecol
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
-- [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
+- [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [nesfit/fitcrack](https://github.com/nesfit/fitcrack) - A hashcat-based distributed password cracking system
 - [jmsaugar/fastboard.io.back](https://github.com/jmsaugar/fastboard.io.back) - 
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
