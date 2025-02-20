@@ -359,6 +359,7 @@
 
 ## Python 
 
+- [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [scholer/pptx-downsizer](https://github.com/scholer/pptx-downsizer) - Python tool for downsizing Microsoft PowerPoint presentations (pptx) files.
