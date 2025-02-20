@@ -1037,6 +1037,7 @@
 
 ## python 
 
+- [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
@@ -1197,6 +1198,7 @@
 
 ## telegram 
 
+- [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 
