@@ -277,6 +277,7 @@
 
 ## computer-science 
 
+- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
@@ -376,6 +377,7 @@
 
 ## education 
 
+- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -824,7 +826,6 @@
 - [matildagame/battle](https://github.com/matildagame/battle) - 
 - [matildagame/matildagame.github.io](https://github.com/matildagame/matildagame.github.io) - 
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
-- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection
 - [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [Nakiami/mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP
