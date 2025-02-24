@@ -74,7 +74,7 @@
 - [exoeconomy/EXOS-Qt](https://github.com/exoeconomy/EXOS-Qt) - The EXO Economy Blockchain Official Wallet
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [artclarke/humble-video](https://github.com/artclarke/humble-video) - Humble Video: Demuxing, Decoding, Filtering, Encoding and Muxing of 100's of video and audio formats and Codecs from the JVM
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [dugo/practicas-sistemas-ugr](https://github.com/dugo/practicas-sistemas-ugr) - Forja pública donde iré subiendo las prácticas de Ing.Tec.Inf. de Sistemas (UGR)
 
@@ -572,6 +572,7 @@
 
 ## TeX 
 
+- [Ondiz/cursoLatex](https://github.com/Ondiz/cursoLatex) - Un curso no convencional de Latex
 - [erseco/ugr_tfg](https://github.com/erseco/ugr_tfg) - Trabajo de Fin de Grado - Análisis de plataforma de recursos de apoyo a la docencia Prado2
 - [JJ/edubots-paper](https://github.com/JJ/edubots-paper) - Paper describing best practices in use of instant messaging systems and bots attached to them.
 - [Witiko/markdown](https://github.com/Witiko/markdown) - :notebook_with_decorative_cover: A package for converting and rendering markdown documents in TeX
