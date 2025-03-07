@@ -156,6 +156,7 @@
 
 ## android 
 
+- [Netdex/android-usb-script](https://github.com/Netdex/android-usb-script) - An Android app that allows you to script USB gadgets (work-in-progress).
 - [stnby/AlpineDroid](https://github.com/stnby/AlpineDroid) - Alpine Linux chroot environment for your Android smart device. (mirror)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
@@ -748,6 +749,7 @@
 
 ## others 
 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [tylermenezes/FakeSSH](https://github.com/tylermenezes/FakeSSH) - Fake SSH server for confusing spammers, because we all know security through obscurity rocks.
 - [pac4j/casserverpac4j](https://github.com/pac4j/casserverpac4j) - CAS server for pac4j demos
 - [tarugoconf/top](https://github.com/tarugoconf/top) - Lume theme to create a website for an event
