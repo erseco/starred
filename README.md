@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -47,6 +48,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
+## Arduino 
+
+- [Insight1620/CJMCU-BadUSB](https://github.com/Insight1620/CJMCU-BadUSB) - 
+
 ## Assembly 
 
 - [c3x04/Unix-1st-Edition-jun72](https://github.com/c3x04/Unix-1st-Edition-jun72) - Restoration of 1st Edition UNIX kernel sources from pdf document.
@@ -59,6 +64,7 @@
 
 ## C 
 
+- [labuhardilladelloco/Bad-duck-esp](https://github.com/labuhardilladelloco/Bad-duck-esp) - Solucion a la distribuciónd de teclado en Epañol
 - [DrBeef/Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest
 - [rogeduardo/afpfs-ng](https://github.com/rogeduardo/afpfs-ng) - afpfs-ng/libafpclient is an open source client for the Apple Filing Protocol
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -182,6 +188,7 @@
 
 ## Java 
 
+- [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [threethan/LightningBrowser](https://github.com/threethan/LightningBrowser) - A powerful Gecko-based browser for Android TV and VR
 - [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 100K sidequest downloads!
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
