@@ -271,7 +271,7 @@
 
 ## Kotlin 
 
-- [Netdex/android-usb-script](https://github.com/Netdex/android-usb-script) - An Android app that allows you to script USB gadgets (work-in-progress).
+- [Netdex/android-usb-script](https://github.com/Netdex/android-usb-script) - An Android app that allows you to script USB gadgets in Lua.
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
 
 ## Lua 
