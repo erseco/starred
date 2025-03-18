@@ -835,7 +835,7 @@
 - [fengzmg/clean-my-mac](https://github.com/fengzmg/clean-my-mac) - Shell Scripts to clean my mac
 - [shashanoid/Simpdf](https://github.com/shashanoid/Simpdf) - Simple PDF text editor
 - [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [matildagame/battle](https://github.com/matildagame/battle) - 
 - [matildagame/matildagame.github.io](https://github.com/matildagame/matildagame.github.io) - 
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
