@@ -113,6 +113,7 @@
 - [timdams/moodle-book](https://github.com/timdams/moodle-book) - Convert markdown coruse to moodle book archive
 - [MCYP-UniversidadReyJuanCarlos/20-21_celiso](https://github.com/MCYP-UniversidadReyJuanCarlos/20-21_celiso) - 
 - [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [jvns/julia-drawings](https://github.com/jvns/julia-drawings) - 
 - [cristinafsanz/notas-git](https://github.com/cristinafsanz/notas-git) - ✍️ Notas del libro Aprende Git y, de camino, GitHub (Juan Julián Merelo y Ángel Pablo Hinojosa)
@@ -416,7 +417,6 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [OscarMaestre/apuntes_sad](https://github.com/OscarMaestre/apuntes_sad) - Estructura para apuntes de Seguridad y alta disponibilidad
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [erseco/CTFd](https://github.com/erseco/CTFd) - This is a fork of CTFd modified to be deployable on Heroku and have lightweight Docker images.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
