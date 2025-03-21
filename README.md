@@ -46,6 +46,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [YARA](#yara)
 
 ## Arduino 
 
@@ -608,6 +609,10 @@
 
 - [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+
+## YARA 
+
+- [ParrotSec/mimikatz](https://github.com/ParrotSec/mimikatz) - 
 
 
 ## License
