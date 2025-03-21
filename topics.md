@@ -756,6 +756,7 @@
 
 ## others 
 
+- [ParrotSec/mimikatz](https://github.com/ParrotSec/mimikatz) - 
 - [ctt-gob-es/clienteafirma](https://github.com/ctt-gob-es/clienteafirma) - Cliente @firma
 - [labuhardilladelloco/Bad-duck-esp](https://github.com/labuhardilladelloco/Bad-duck-esp) - Solucion a la distribuciónd de teclado en Epañol
 - [Insight1620/CJMCU-BadUSB](https://github.com/Insight1620/CJMCU-BadUSB) - 
