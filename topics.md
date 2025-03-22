@@ -756,6 +756,7 @@
 
 ## others 
 
+- [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
 - [ParrotSec/mimikatz](https://github.com/ParrotSec/mimikatz) - 
 - [ctt-gob-es/clienteafirma](https://github.com/ctt-gob-es/clienteafirma) - Cliente @firma
 - [labuhardilladelloco/Bad-duck-esp](https://github.com/labuhardilladelloco/Bad-duck-esp) - Solucion a la distribuciónd de teclado en Epañol
