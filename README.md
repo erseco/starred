@@ -215,6 +215,7 @@
 
 ## JavaScript 
 
+- [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
