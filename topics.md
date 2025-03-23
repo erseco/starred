@@ -756,6 +756,7 @@
 
 ## others 
 
+- [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
 - [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
 - [ParrotSec/mimikatz](https://github.com/ParrotSec/mimikatz) - 
 - [ctt-gob-es/clienteafirma](https://github.com/ctt-gob-es/clienteafirma) - Cliente @firma
