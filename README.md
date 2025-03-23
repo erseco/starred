@@ -335,6 +335,7 @@
 
 ## PHP 
 
+- [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
 - [nmarafo/moodle-atto_aceinlineassistant](https://github.com/nmarafo/moodle-atto_aceinlineassistant) - Atto editor plugin
