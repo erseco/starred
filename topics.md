@@ -756,6 +756,7 @@
 
 ## others 
 
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
 - [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
 - [ParrotSec/mimikatz](https://github.com/ParrotSec/mimikatz) - 
