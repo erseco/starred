@@ -24,6 +24,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [chrome](#chrome)
 - [cli](#cli)
 - [coding](#coding)
 - [computer-science](#computer-science)
@@ -262,6 +263,10 @@
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 
+## chrome 
+
+- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
+
 ## cli 
 
 - [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
@@ -357,6 +362,7 @@
 
 ## docker 
 
+- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [erseco/alpine-moodle](https://github.com/erseco/alpine-moodle) - Moodle docker image based on Alpine Linux
@@ -493,6 +499,7 @@
 
 ## hacktoberfest 
 
+- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
@@ -756,6 +763,7 @@
 
 ## others 
 
+- [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
 - [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
@@ -1256,7 +1264,7 @@
 
 ## virtual-reality 
 
-- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 100K sidequest downloads!
+- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Oculus Quest and Android TV devices with a focus on speed and flexibility. Thanks for 110K sidequest downloads!
 
 ## visual-basic 
 
