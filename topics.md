@@ -170,6 +170,7 @@
 
 ## ansible 
 
+- [z0mbix/rolecule](https://github.com/z0mbix/rolecule) - Small, simple tool to test your ansible roles
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
@@ -362,6 +363,7 @@
 
 ## docker 
 
+- [z0mbix/rolecule](https://github.com/z0mbix/rolecule) - Small, simple tool to test your ansible roles
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
