@@ -293,6 +293,7 @@
 
 ## Makefile 
 
+- [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [JJ/make-is-fun](https://github.com/JJ/make-is-fun) - A few funny recipes using make
 
