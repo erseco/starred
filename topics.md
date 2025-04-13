@@ -766,6 +766,7 @@
 
 ## others 
 
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
 - [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
 - [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
