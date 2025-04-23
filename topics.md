@@ -134,6 +134,7 @@
 - [swift](#swift)
 - [symfony](#symfony)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -798,7 +799,7 @@
 - [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [trap-bytes/hauditor](https://github.com/trap-bytes/hauditor) - hauditor is a tool designed to analyze the security headers returned by a web page.
 - [otacke/h5p-todo](https://github.com/otacke/h5p-todo) - This is just a list where I publicly drop and re-arrange my ideas and todos for H5P stuff
-- [catedu/fp-distancia-plugin-edicion-materiales](https://github.com/catedu/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
+- [Campus-Digital-FP/fp-distancia-plugin-edicion-materiales](https://github.com/Campus-Digital-FP/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js) - Speech Markdown grammar, parser, and formatters for use with JavaScript.
 - [speechmarkdown/docs-speechmarkdown-reference](https://github.com/speechmarkdown/docs-speechmarkdown-reference) - The open source version of the Speech Markdown Reference docs.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
@@ -1235,6 +1236,11 @@
 - [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+
+## telegram-bot 
+
+- [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
+- [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 
 ## tensorflow 
 
