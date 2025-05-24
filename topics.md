@@ -769,6 +769,7 @@
 
 ## others 
 
+- [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
 - [ateeducacion/omeka-s-IsolatedSites](https://github.com/ateeducacion/omeka-s-IsolatedSites) - Module for Omeka-S for restrict users view to the assigned sites
 - [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
