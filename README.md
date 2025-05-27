@@ -307,6 +307,7 @@
 
 ## Others 
 
+- [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [otacke/h5p-todo](https://github.com/otacke/h5p-todo) - This is just a list where I publicly drop and re-arrange my ideas and todos for H5P stuff
