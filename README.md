@@ -102,7 +102,7 @@
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [hughperkins/DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks
 - [mrScorpio/Gopher360](https://github.com/mrScorpio/Gopher360) - Gopher, sometimes referred to as Gopher360, is an out-of-the-box tool for turning 360 or XOne controller input into mouse & keyboard input. Made with couch PC users in mind.
-- [TheGameCreators/FPS-Creator-Classic](https://github.com/TheGameCreators/FPS-Creator-Classic) - Source code and files for FPS Creator Classic
+- [Dark-Basic-Software-Limited/FPS-Creator-Classic](https://github.com/Dark-Basic-Software-Limited/FPS-Creator-Classic) - Source code and files for FPS Creator Classic
 - [ErisBlastar/cplusequality](https://github.com/ErisBlastar/cplusequality) - Feminist Software Foundation C+=, a new language for us feminists
 - [elbaulp/grado_informatica_ig_practicas](https://github.com/elbaulp/grado_informatica_ig_practicas) - 
 - [Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Restoration of defocused and blurred photos/images
@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [z0mbix/rolecule](https://github.com/z0mbix/rolecule) - Small, simple tool to test your ansible roles
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -182,7 +183,6 @@
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
 - [pacastillo/swap1516](https://github.com/pacastillo/swap1516) - Repositorio de SWAP para el curso 2015-2016
 - [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 
 ## Haskell 
@@ -493,6 +493,7 @@
 - [LeoIannacone/goopg](https://github.com/LeoIannacone/goopg) - GPG for Gmail in Chrome and Chromium
 - [gmdfalk/blockify](https://github.com/gmdfalk/blockify) - mute spotify adverts on linux
 - [zostera/django-bootstrap3](https://github.com/zostera/django-bootstrap3) - Bootstrap 3 integration with Django.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [rouge8/20questions](https://github.com/rouge8/20questions) - Artificial Intelligence final project. 20 questions player/simple webapp.
 - [erikackermann/Connect-Four](https://github.com/erikackermann/Connect-Four) - Connect Four game written in python
 - [armooo/cloudprint](https://github.com/armooo/cloudprint) - Google cloudprint proxy
