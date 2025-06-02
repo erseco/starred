@@ -307,6 +307,7 @@
 
 ## Others 
 
+- [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is a GPLv3 free/libre tool to create and publish open educational resources.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
