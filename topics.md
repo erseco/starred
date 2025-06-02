@@ -772,6 +772,7 @@
 
 ## others 
 
+- [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is a GPLv3 free/libre tool to create and publish open educational resources.
