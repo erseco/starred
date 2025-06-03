@@ -775,7 +775,7 @@
 - [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
-- [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is a GPLv3 free/libre tool to create and publish open educational resources.
+- [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is an AGPL-licensed free/libre tool to create and publish open educational resources.
 - [ateeducacion/omeka-s-IsolatedSites](https://github.com/ateeducacion/omeka-s-IsolatedSites) - Module for Omeka-S for restrict users view to the assigned sites
 - [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
 - [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
