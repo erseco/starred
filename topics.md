@@ -772,6 +772,7 @@
 
 ## others 
 
+- [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
 - [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
