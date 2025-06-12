@@ -464,7 +464,7 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [bolsote/bookish](https://github.com/bolsote/bookish) - Very broken repository, only meant to prove a point
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
-- [jazzband/django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files
+- [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files
 - [exolever/pyaccredible](https://github.com/exolever/pyaccredible) - Accredible python Wrapper
 - [exolever/django-changelog](https://github.com/exolever/django-changelog) - Managing changes during release time
 - [whybe/jira2github](https://github.com/whybe/jira2github) - This is a simple project to migrate issues from jira to github.
