@@ -66,6 +66,7 @@
 - [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [html](#html)
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
@@ -76,6 +77,7 @@
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -314,6 +316,7 @@
 
 ## css 
 
+- [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
@@ -539,6 +542,10 @@
 
 - [mgmacias95/Criptografia_y_Computacion](https://github.com/mgmacias95/Criptografia_y_Computacion) - Prácticas de la asignatura Criptografía y Computación - Grado en Ingeniería Informática (UGR)
 
+## html 
+
+- [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
+
 ## html5 
 
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
@@ -571,6 +578,7 @@
 
 ## javascript 
 
+- [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
@@ -596,6 +604,10 @@
 ## jquery 
 
 - [bjornd/jvectormap](https://github.com/bjornd/jvectormap) - 
+
+## js 
+
+- [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 
 ## json 
 
