@@ -541,6 +541,7 @@
 
 ## Shell 
 
+- [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
 - [L-U-C-K-Y/Reduce-PowerPoint-File-Size](https://github.com/L-U-C-K-Y/Reduce-PowerPoint-File-Size) - A script to reduce the size of PowerPoint files
 - [frozzare/docker-wptest](https://github.com/frozzare/docker-wptest) - 🐳 Run WordPress tests in a Docker container
