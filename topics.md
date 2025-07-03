@@ -790,6 +790,7 @@
 
 ## others 
 
+- [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source system for writing and publishing dictionaries.
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
 - [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
@@ -856,7 +857,7 @@
 - [murtazahassan/Tello-Object-Tracking](https://github.com/murtazahassan/Tello-Object-Tracking) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [matthewwall/weewx-interceptor](https://github.com/matthewwall/weewx-interceptor) - weewx driver that intercepts web traffic from internet 'bridge' devices such as Acurite Access, ObserverIP, OS LW30x, LaCross GW1000U, FineOffset GW1000
 - [hashcat/princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm
 - [keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper3.0
