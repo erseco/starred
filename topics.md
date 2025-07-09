@@ -790,6 +790,7 @@
 
 ## others 
 
+- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source system for writing and publishing dictionaries.
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
