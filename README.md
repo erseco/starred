@@ -345,6 +345,7 @@
 
 ## PHP 
 
+- [klapaudius/symfony-mcp-server](https://github.com/klapaudius/symfony-mcp-server) - A Symfony package designed for building secure servers based on the Model Context Protocol, utilizing Server-Sent Events (SSE) and/or StreamableHTTP for real-time communication. It offers a scalable t
 - [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
 - [ateeducacion/omeka-s-IsolatedSites](https://github.com/ateeducacion/omeka-s-IsolatedSites) - Module for Omeka-S for restrict users view to the assigned sites
 - [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
