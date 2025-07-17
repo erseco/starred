@@ -66,7 +66,7 @@
 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [labuhardilladelloco/Bad-duck-esp](https://github.com/labuhardilladelloco/Bad-duck-esp) - Solucion a la distribuciónd de teclado en Epañol
-- [DrBeef/Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest
+- [Team-Beef-Studios/Lambda1VR](https://github.com/Team-Beef-Studios/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest
 - [rogeduardo/afpfs-ng](https://github.com/rogeduardo/afpfs-ng) - afpfs-ng/libafpclient is an open source client for the Apple Filing Protocol
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
