@@ -901,7 +901,7 @@
 - [geneura-papers/2020-evostar-variable-attack-surface](https://github.com/geneura-papers/2020-evostar-variable-attack-surface) - Paper on evolving the "attack surface" of services to maximize security.
 - [jusbrasil/github-action-s3cmd](https://github.com/jusbrasil/github-action-s3cmd) - S3cmd GitHub Action
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
+- [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [rutanio/Rutanio-Qt](https://github.com/rutanio/Rutanio-Qt) - The Rutanio Economy Blockchain Official Wallet
 - [LinkedInAttic/nginx-config-builder](https://github.com/LinkedInAttic/nginx-config-builder) - A python library for building nginx configuration files programatically
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
