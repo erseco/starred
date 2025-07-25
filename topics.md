@@ -1353,6 +1353,7 @@
 
 ## wordpress 
 
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [frozzare/docker-wptest](https://github.com/frozzare/docker-wptest) - 🐳 Run WordPress tests in a Docker container
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 
