@@ -38,6 +38,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [developer-tools](#developer-tools)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -352,6 +353,10 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
+
+## developer-tools 
+
+- [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 
 ## devops 
 
