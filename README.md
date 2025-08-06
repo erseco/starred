@@ -274,6 +274,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [YesWeTech/Python-and-Django-workshops](https://github.com/YesWeTech/Python-and-Django-workshops) - Tutoriales usados en nuestro taller de Python y Django "Women in Django".
 
 ## Kotlin 
@@ -290,7 +291,6 @@
 ## MDX 
 
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
 
