@@ -384,7 +384,6 @@
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [erseco/alpine-moodle](https://github.com/erseco/alpine-moodle) - Moodle docker image based on Alpine Linux
 - [crazy-max/ghaction-docker-buildx](https://github.com/crazy-max/ghaction-docker-buildx) - :octocat: GitHub Action to set up Docker Buildx
 - [erseco/CTFd](https://github.com/erseco/CTFd) - This is a fork of CTFd modified to be deployable on Heroku and have lightweight Docker images.
 - [jbergstroem/mariadb-alpine](https://github.com/jbergstroem/mariadb-alpine) - A tiny and fast MariaDB container
@@ -532,7 +531,6 @@
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-- [erseco/alpine-moodle](https://github.com/erseco/alpine-moodle) - Moodle docker image based on Alpine Linux
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
