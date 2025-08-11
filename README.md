@@ -351,6 +351,7 @@
 - [Campus-Digital-FP/fp-distancia-plugin-edicion-materiales](https://github.com/Campus-Digital-FP/fp-distancia-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
+- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [al4r0/v4char-web](https://github.com/al4r0/v4char-web) - 
 - [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - distributed password cracking with Hashcat
 - [Nakiami/mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP
@@ -541,6 +542,7 @@
 
 ## Shell 
 
+- [rjamestaylor/macos-globalprotect-bot](https://github.com/rjamestaylor/macos-globalprotect-bot) - A comprehensive macOS automation suite for GlobalProtect VPN connections with Okta/SAML integration, designed for easy configuration and deployment.
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
 - [L-U-C-K-Y/Reduce-PowerPoint-File-Size](https://github.com/L-U-C-K-Y/Reduce-PowerPoint-File-Size) - A script to reduce the size of PowerPoint files
@@ -624,7 +626,6 @@
 
 ## Vue 
 
-- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## YARA 
