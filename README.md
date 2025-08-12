@@ -553,7 +553,7 @@
 - [stnby/AlpineDroid](https://github.com/stnby/AlpineDroid) - Alpine Linux chroot environment for your Android smart device. (mirror)
 - [Cl4r4-5/OriON](https://github.com/Cl4r4-5/OriON) - OriON is a virtual machine in Spanish that incorporates several tools for Open Source Intelligence (OSINT) on people.
 - [21y4d/nmapAutomator](https://github.com/21y4d/nmapAutomator) - A script that you can run in the background!
-- [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
+- [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up a fresh Ubuntu Server install as an IKEv2 VPN server
 - [asavoy/mkvenv](https://github.com/asavoy/mkvenv) - Conveniently setup & use Python virtualenvs
 - [machevalia/pwndb.sh](https://github.com/machevalia/pwndb.sh) - Script to utilize the v2 pwndb onion site to find leaked passwords.
 - [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in 
