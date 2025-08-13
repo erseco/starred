@@ -307,6 +307,7 @@
 
 ## Others 
 
+- [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents) - A curated list of awesome Claude Code Sub-Agents
 - [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
@@ -383,6 +384,7 @@
 
 ## Python 
 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
 - [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
 - [tylermenezes/FakeSSH](https://github.com/tylermenezes/FakeSSH) - Fake SSH server for confusing spammers, because we all know security through obscurity rocks.
