@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [z0mbix/rolecule](https://github.com/z0mbix/rolecule) - Small, simple tool to test your ansible roles
