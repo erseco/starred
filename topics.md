@@ -283,6 +283,7 @@
 
 ## cli 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive Bash script terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.
@@ -383,6 +384,7 @@
 
 ## docker 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [z0mbix/rolecule](https://github.com/z0mbix/rolecule) - Small, simple tool to test your ansible roles
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
