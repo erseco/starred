@@ -192,7 +192,7 @@
 
 ## artificial-intelligence 
 
-- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
 ## automation 
@@ -345,7 +345,7 @@
 
 ## cybersecurity 
 
-- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [erseco/moving_target_defense](https://github.com/erseco/moving_target_defense) - Evolutionary Based Moving Target Cyber-Defense Master Thesis
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -453,6 +453,7 @@
 
 ## framework 
 
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 
@@ -684,7 +685,7 @@
 
 ## llm 
 
-- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -1083,7 +1084,7 @@
 
 ## pentesting 
 
-- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [hashtopolis/server](https://github.com/hashtopolis/server) - Hashtopolis - distributed password cracking with Hashcat
