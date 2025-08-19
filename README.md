@@ -386,7 +386,7 @@
 ## Python 
 
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
-- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
 - [tylermenezes/FakeSSH](https://github.com/tylermenezes/FakeSSH) - Fake SSH server for confusing spammers, because we all know security through obscurity rocks.
 - [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
