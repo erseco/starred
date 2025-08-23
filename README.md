@@ -38,6 +38,7 @@
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -183,7 +184,6 @@
 - [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
 - [pacastillo/swap1516](https://github.com/pacastillo/swap1516) - Repositorio de SWAP para el curso 2015-2016
-- [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 
 ## Haskell 
@@ -538,6 +538,10 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+
+## SCSS 
+
+- [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
 
 ## Scala 
 
