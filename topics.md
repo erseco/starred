@@ -814,6 +814,8 @@
 
 ## others 
 
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
 - [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents) - A curated list of awesome Claude Code Sub-Agents
 - [rjamestaylor/macos-globalprotect-bot](https://github.com/rjamestaylor/macos-globalprotect-bot) - A comprehensive macOS automation suite for GlobalProtect VPN connections with Okta/SAML integration, designed for easy configuration and deployment.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
