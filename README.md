@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [Zoobdude/alpine-chrome](https://github.com/Zoobdude/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source system for writing and publishing dictionaries.
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is an AGPL-licensed free/libre tool to create and publish open educational resources.
