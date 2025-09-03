@@ -131,6 +131,7 @@
 
 ## Dockerfile 
 
+- [openai/codex-universal](https://github.com/openai/codex-universal) - Base docker image used in Codex environments
 - [jimsihk/alpine-php-nginx](https://github.com/jimsihk/alpine-php-nginx) - Docker image with NGINX & PHP-FPM on Alpine Linux
 - [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
 - [jusbrasil/github-action-s3cmd](https://github.com/jusbrasil/github-action-s3cmd) - S3cmd GitHub Action
