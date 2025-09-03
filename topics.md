@@ -816,6 +816,7 @@
 
 ## others 
 
+- [openai/codex-universal](https://github.com/openai/codex-universal) - Base docker image used in Codex environments
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [Zoobdude/alpine-chrome](https://github.com/Zoobdude/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
