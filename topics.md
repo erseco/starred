@@ -903,7 +903,6 @@
 - [Quantika14/osint-suite-tools](https://github.com/Quantika14/osint-suite-tools) - Repositorio del conjunto de herramientas para hacer OSINT y SOCMINT con Dante's Gates Minimal Version.
 - [andreas-mausch/whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer) - Small tool to display chats from the Android msgstore.db database (crypt12)
 - [machevalia/pwndb.sh](https://github.com/machevalia/pwndb.sh) - Script to utilize the v2 pwndb onion site to find leaked passwords.
-- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [mrmattwilkins/google-contacts-sync](https://github.com/mrmattwilkins/google-contacts-sync) - Sync google contacts between accounts using People API
 - [cecimerelo/UnAlgoritmoFeliz](https://github.com/cecimerelo/UnAlgoritmoFeliz) - 
 - [MCYP-UniversidadReyJuanCarlos/20-21_celiso](https://github.com/MCYP-UniversidadReyJuanCarlos/20-21_celiso) - 
