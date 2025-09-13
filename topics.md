@@ -291,6 +291,7 @@
 
 ## cli 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
@@ -539,6 +540,7 @@
 
 ## hacktoberfest 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is an AGPL-licensed free/libre tool to create and publish open educational resources.
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -903,6 +905,7 @@
 - [Quantika14/osint-suite-tools](https://github.com/Quantika14/osint-suite-tools) - Repositorio del conjunto de herramientas para hacer OSINT y SOCMINT con Dante's Gates Minimal Version.
 - [andreas-mausch/whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer) - Small tool to display chats from the Android msgstore.db database (crypt12)
 - [machevalia/pwndb.sh](https://github.com/machevalia/pwndb.sh) - Script to utilize the v2 pwndb onion site to find leaked passwords.
+- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [mrmattwilkins/google-contacts-sync](https://github.com/mrmattwilkins/google-contacts-sync) - Sync google contacts between accounts using People API
 - [cecimerelo/UnAlgoritmoFeliz](https://github.com/cecimerelo/UnAlgoritmoFeliz) - 
 - [MCYP-UniversidadReyJuanCarlos/20-21_celiso](https://github.com/MCYP-UniversidadReyJuanCarlos/20-21_celiso) - 
@@ -1216,6 +1219,7 @@
 
 ## rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -1323,6 +1327,7 @@
 
 ## terminal 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
