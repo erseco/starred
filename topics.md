@@ -119,6 +119,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [publishing](#publishing)
 - [python](#python)
 - [python3](#python3)
@@ -1143,6 +1144,10 @@
 ## productivity 
 
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+## programming-language 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## publishing 
 
