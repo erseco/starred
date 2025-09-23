@@ -159,6 +159,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -1411,6 +1412,11 @@
 ## xcode 
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+## zsh 
+
+- [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 
 
 ## License
