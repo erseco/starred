@@ -213,7 +213,6 @@
 - [cSploit/android](https://github.com/cSploit/android) - cSploit - The most complete and advanced IT security professional toolkit on Android.
 - [zoraidacallejas/talk-to-your-assistant](https://github.com/zoraidacallejas/talk-to-your-assistant) - Open code to build a speech-enabled personal assistant in Android
 - [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investiga
-- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [erseco/napakalaki_java](https://github.com/erseco/napakalaki_java) - Implementación en java del Juego Napakalaki para la asignatura PDOO de la UGR (ETSIIT)
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [zoraidacallejas/sandra](https://github.com/zoraidacallejas/sandra) - Speech ANDroid Apps
@@ -272,6 +271,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [Mahdi7s/angrybirdsx](https://github.com/Mahdi7s/angrybirdsx) - Angry birds game using Javascript, Cocos2d game engine, Box2d physics and HTML5
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 
 ## Julia 
 
