@@ -348,6 +348,7 @@
 
 ## PHP 
 
+- [erseco/alpine-omeka-s](https://github.com/erseco/alpine-omeka-s) - Omeka S docker image based on Alpine Linux
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
@@ -560,6 +561,7 @@
 
 ## Shell 
 
+- [GhentCDH/Omeka-S-Docker](https://github.com/GhentCDH/Omeka-S-Docker) - 
 - [rjamestaylor/macos-globalprotect-bot](https://github.com/rjamestaylor/macos-globalprotect-bot) - A comprehensive macOS automation suite for GlobalProtect VPN connections with Okta/SAML integration, designed for easy configuration and deployment.
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [callegar/Rezip](https://github.com/callegar/Rezip) - A script to compress, uncompress ODF files to store them efficiently with git
