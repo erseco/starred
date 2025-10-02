@@ -563,6 +563,7 @@
 - [JJ/hoborg](https://github.com/JJ/hoborg) - A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century
 - [erseco/ugr_tfg](https://github.com/erseco/ugr_tfg) - Trabajo de Fin de Grado - Análisis de plataforma de recursos de apoyo a la docencia Prado2
 - [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
+- [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
