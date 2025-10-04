@@ -227,7 +227,7 @@
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [qwertytiles/qwertytiles.github.io](https://github.com/qwertytiles/qwertytiles.github.io) - A speed typing game.
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
@@ -299,7 +299,6 @@
 
 ## Makefile 
 
-- [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [JJ/make-is-fun](https://github.com/JJ/make-is-fun) - A few funny recipes using make
 
@@ -355,6 +354,7 @@
 - [klapaudius/symfony-mcp-server](https://github.com/klapaudius/symfony-mcp-server) - A Symfony package designed for building secure servers based on the Model Context Protocol, utilizing Server-Sent Events (SSE) and/or StreamableHTTP for real-time communication. It offers a scalable t
 - [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
 - [ateeducacion/omeka-s-IsolatedSites](https://github.com/ateeducacion/omeka-s-IsolatedSites) - Module for Omeka-S for restrict users view to the assigned sites
+- [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
 - [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
