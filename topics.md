@@ -834,6 +834,7 @@
 
 ## others 
 
+- [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX - Marp themes still created with beauty and simplicity in mind. (Marpstyle 2.0)
 - [GhentCDH/Omeka-S-Docker](https://github.com/GhentCDH/Omeka-S-Docker) - 
 - [openai/codex-universal](https://github.com/openai/codex-universal) - Base docker image used in Codex environments
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
