@@ -656,6 +656,7 @@
 
 ## js 
 
+- [allotropia/zetajs](https://github.com/allotropia/zetajs) - JS wrapper for ZetaOffice in the browser
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 
 ## json 
@@ -794,6 +795,7 @@
 
 ## nodejs 
 
+- [allotropia/zetajs](https://github.com/allotropia/zetajs) - JS wrapper for ZetaOffice in the browser
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
