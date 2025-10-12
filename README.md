@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [allotropia/zetajs](https://github.com/allotropia/zetajs) - JS wrapper for ZetaOffice in the browser
 - [Zoobdude/alpine-chrome](https://github.com/Zoobdude/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning 3 is an AGPL-licensed free/libre tool to create and publish open educational resources.
