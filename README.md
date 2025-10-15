@@ -527,7 +527,7 @@
 
 ## Riot 
 
-- [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source system for writing and publishing dictionaries.
+- [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source dictionary writing system for editing, updating and publishing dictionaries, glossaries and similar lexicographic works.
 
 ## Ruby 
 
