@@ -50,6 +50,7 @@
 - [electron](#electron)
 - [ember](#ember)
 - [emulator](#emulator)
+- [es6](#es6)
 - [ethereum](#ethereum)
 - [express](#express)
 - [flask](#flask)
@@ -104,6 +105,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -458,6 +460,10 @@
 - [jsanchezv/JSpeccy](https://github.com/jsanchezv/JSpeccy) - A multiplatform ZX Spectrum emulator written in Java
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 
+## es6 
+
+- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
+
 ## ethereum 
 
 - [3rdIteration/btcrecover](https://github.com/3rdIteration/btcrecover) - BTCRecover is an open source wallet password and seed recovery tool. For seed based recovery, this is primarily useful in situations where you have lost/forgotten parts of your mnemonic, or have made 
@@ -809,6 +815,10 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 
+## npm 
+
+- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
+
 ## objective-c 
 
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
@@ -1140,6 +1150,7 @@
 
 ## php 
 
+- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
