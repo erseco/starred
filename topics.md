@@ -36,6 +36,7 @@
 - [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -152,6 +153,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
 - [virtual-reality](#virtual-reality)
@@ -352,6 +354,10 @@
 
 - [1r0dm480/CTF-Wr1T3uPs](https://github.com/1r0dm480/CTF-Wr1T3uPs) - Repository to store summaries of CTF challenges
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
+
+## csharp 
+
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 
 ## css 
 
@@ -633,6 +639,7 @@
 
 ## java 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [jsanchezv/JSpeccy](https://github.com/jsanchezv/JSpeccy) - A multiplatform ZX Spectrum emulator written in Java
 - [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investiga
@@ -640,6 +647,7 @@
 
 ## javascript 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -867,7 +875,7 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
-- [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents) - A curated list of awesome Claude Code Sub-Agents
+- [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) - A list of Claude Code Sub-Agents submitted by the community.
 - [rjamestaylor/macos-globalprotect-bot](https://github.com/rjamestaylor/macos-globalprotect-bot) - A comprehensive macOS automation suite for GlobalProtect VPN connections with Okta/SAML integration, designed for easy configuration and deployment.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source dictionary writing system for editing, updating and publishing dictionaries, glossaries and similar lexicographic works.
@@ -1195,6 +1203,7 @@
 
 ## python 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
@@ -1267,6 +1276,7 @@
 
 ## rust 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1390,6 +1400,10 @@
 ## testing 
 
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
+
+## typescript 
+
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 
 ## ubuntu 
 
