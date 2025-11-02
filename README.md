@@ -283,6 +283,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [YesWeTech/Python-and-Django-workshops](https://github.com/YesWeTech/Python-and-Django-workshops) - Tutoriales usados en nuestro taller de Python y Django "Women in Django".
 
@@ -317,7 +318,7 @@
 
 ## Others 
 
-- [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents) - A curated list of awesome Claude Code Sub-Agents
+- [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) - A list of Claude Code Sub-Agents submitted by the community.
 - [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
