@@ -353,6 +353,7 @@
 
 ## PHP 
 
+- [ignaciogros/exelearning-style-designer](https://github.com/ignaciogros/exelearning-style-designer) - 
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - CF Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
 - [erseco/alpine-omeka-s](https://github.com/erseco/alpine-omeka-s) - Omeka S docker image based on Alpine Linux
