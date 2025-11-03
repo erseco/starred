@@ -863,6 +863,7 @@
 
 ## others 
 
+- [ignaciogros/exelearning-style-designer](https://github.com/ignaciogros/exelearning-style-designer) - 
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - CF Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
 - [medicalopenworld/IncuNest](https://github.com/medicalopenworld/IncuNest) - Low-cost, open source infant incubator
