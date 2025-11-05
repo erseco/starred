@@ -353,6 +353,7 @@
 
 ## PHP 
 
+- [RusticiSoftware/SCORMCloud_WordPressPlugin](https://github.com/RusticiSoftware/SCORMCloud_WordPressPlugin) - A plugin for integrating the SCORM Cloud service into WordPress.
 - [ignaciogros/exelearning-style-designer](https://github.com/ignaciogros/exelearning-style-designer) - 
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - CF Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
