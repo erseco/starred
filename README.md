@@ -111,6 +111,7 @@
 
 ## CSS 
 
+- [ateeducacion/omeka-s-GlobalLandingPage](https://github.com/ateeducacion/omeka-s-GlobalLandingPage) - Module for override the global index template page for one in a theme
 - [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX - Marp themes still created with beauty and simplicity in mind. (Marpstyle 2.0)
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [tarugoconf/top](https://github.com/tarugoconf/top) - Lume theme to create a website for an event
@@ -145,6 +146,7 @@
 
 ## Go 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
