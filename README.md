@@ -227,6 +227,7 @@
 
 ## JavaScript 
 
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [allotropia/zetajs](https://github.com/allotropia/zetajs) - JS wrapper for ZetaOffice in the browser
 - [Zoobdude/alpine-chrome](https://github.com/Zoobdude/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
