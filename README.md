@@ -313,6 +313,7 @@
 
 ## Objective-C 
 
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS)
 - [pangliang/ble-unlocker](https://github.com/pangliang/ble-unlocker) - 指定蓝牙4.0设备, 远离Mac电脑时电脑自动锁定
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
