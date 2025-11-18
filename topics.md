@@ -329,7 +329,6 @@
 
 ## computer-science 
 
-- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
@@ -868,6 +867,7 @@
 
 ## others 
 
+- [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [ateeducacion/omeka-s-GlobalLandingPage](https://github.com/ateeducacion/omeka-s-GlobalLandingPage) - Module for override the global index template page for one in a theme
 - [RusticiSoftware/SCORMCloud_WordPressPlugin](https://github.com/RusticiSoftware/SCORMCloud_WordPressPlugin) - A plugin for integrating the SCORM Cloud service into WordPress.
