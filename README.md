@@ -146,6 +146,7 @@
 
 ## Go 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -206,7 +207,7 @@
 - [ctt-gob-es/clienteafirma](https://github.com/ctt-gob-es/clienteafirma) - Cliente @firma
 - [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [threethan/LightningBrowser](https://github.com/threethan/LightningBrowser) - A powerful Gecko-based browser for Android TV and VR
-- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Meta Quest and Android TV. 🎉 120K+ sidequest downloads
+- [threethan/LightningLauncher](https://github.com/threethan/LightningLauncher) - App launcher for Meta Quest and Android TV. 🎉 140K+ sidequest downloads
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 - [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool
