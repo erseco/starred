@@ -30,6 +30,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [coding](#coding)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -329,6 +330,12 @@
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## command-line 
+
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+- [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 
 ## computer-science 
 
