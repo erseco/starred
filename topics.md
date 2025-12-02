@@ -893,7 +893,7 @@
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [ateeducacion/omeka-s-GlobalLandingPage](https://github.com/ateeducacion/omeka-s-GlobalLandingPage) - Module for override the global index template page for one in a theme
 - [RusticiSoftware/SCORMCloud_WordPressPlugin](https://github.com/RusticiSoftware/SCORMCloud_WordPressPlugin) - A plugin for integrating the SCORM Cloud service into WordPress.
-- [ignaciogros/exelearning-style-designer](https://github.com/ignaciogros/exelearning-style-designer) - 
+- [exelearning/exelearning-style-designer](https://github.com/exelearning/exelearning-style-designer) - A tool designed to simplify style development for eXeLearning 3. It is intended for programmers and designers with experience in eXeLearning, CSS, and JavaScript.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - CF Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
 - [medicalopenworld/IncuNest](https://github.com/medicalopenworld/IncuNest) - Low-cost, open source infant incubator
