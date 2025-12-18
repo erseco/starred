@@ -157,6 +157,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
@@ -230,7 +231,7 @@
 ## awesome 
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -241,7 +242,7 @@
 
 ## awesome-list 
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -1052,7 +1053,6 @@
 - [devops-hispano/onboarding](https://github.com/devops-hispano/onboarding) - DevOps Onboarding
 - [devops-hispano/reto-devops](https://github.com/devops-hispano/reto-devops) - Reto pensado para entender y afianzar la filosofía DevOps y tener la práctica de un día a día.
 - [cdown/ansible-desktop](https://github.com/cdown/ansible-desktop) - Ansible playbook for my personal machines.
-- [mibexsoftware/sonar-bitbucket-plugin](https://github.com/mibexsoftware/sonar-bitbucket-plugin) - SonarQube plug-in to create pull request comments for found issues in Bitbucket Cloud
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
 - [rokerkony/dockerize-vps](https://github.com/rokerkony/dockerize-vps) - Set your VPS with docker for multiple websites
 - [lulivi/deep-g-prop](https://github.com/lulivi/deep-g-prop) - DeepGProp: Optimización de Redes Neuronales con Algoritmos Genéticos
@@ -1445,6 +1445,12 @@
 ## testing 
 
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
+
+## tui 
+
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 
 ## typescript 
 
