@@ -40,7 +40,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
@@ -412,7 +411,7 @@
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
 - [tylermenezes/FakeSSH](https://github.com/tylermenezes/FakeSSH) - Fake SSH server for confusing spammers, because we all know security through obscurity rocks.
@@ -576,10 +575,6 @@
 ## SCSS 
 
 - [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
-
-## Scala 
-
-- [mibexsoftware/sonar-bitbucket-plugin](https://github.com/mibexsoftware/sonar-bitbucket-plugin) - SonarQube plug-in to create pull request comments for found issues in Bitbucket Cloud
 
 ## Shell 
 
