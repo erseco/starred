@@ -222,6 +222,7 @@
 
 ## automation 
 
+- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Tahoe support!
 - [angrykoala/browsers-automation-and-koalas](https://github.com/angrykoala/browsers-automation-and-koalas) - Browsers, Automation, and Koalas
@@ -419,6 +420,7 @@
 
 ## developer-tools 
 
+- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 
 ## devops 
@@ -856,6 +858,7 @@
 
 ## nodejs 
 
+- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [allotropia/zetajs](https://github.com/allotropia/zetajs) - JS wrapper for ZetaOffice in the browser
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
@@ -902,6 +905,7 @@
 
 ## others 
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [ateeducacion/omeka-s-GlobalLandingPage](https://github.com/ateeducacion/omeka-s-GlobalLandingPage) - Module for override the global index template page for one in a theme
