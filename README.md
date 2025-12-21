@@ -111,6 +111,7 @@
 ## CSS 
 
 - [ateeducacion/omeka-s-GlobalLandingPage](https://github.com/ateeducacion/omeka-s-GlobalLandingPage) - Module for override the global index template page for one in a theme
+- [exelearning/exelearning-style-designer](https://github.com/exelearning/exelearning-style-designer) - A tool designed to simplify style development for eXeLearning 3. It is intended for programmers and designers with experience in eXeLearning, CSS, and JavaScript.
 - [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX - Marp themes still created with beauty and simplicity in mind. (Marpstyle 2.0)
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [tarugoconf/top](https://github.com/tarugoconf/top) - Lume theme to create a website for an event
@@ -361,7 +362,6 @@
 
 - [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.
 - [RusticiSoftware/SCORMCloud_WordPressPlugin](https://github.com/RusticiSoftware/SCORMCloud_WordPressPlugin) - A plugin for integrating the SCORM Cloud service into WordPress.
-- [exelearning/exelearning-style-designer](https://github.com/exelearning/exelearning-style-designer) - A tool designed to simplify style development for eXeLearning 3. It is intended for programmers and designers with experience in eXeLearning, CSS, and JavaScript.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - CF Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
 - [erseco/alpine-omeka-s](https://github.com/erseco/alpine-omeka-s) - Omeka S docker image based on Alpine Linux
@@ -478,7 +478,7 @@
 - [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning
 - [preply/dj_anonymizer](https://github.com/preply/dj_anonymizer) - Anonymize django database. Big-data anonymizer. Preply team.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
+- [codingjoe/django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications
 - [volatilityfoundation/profiles](https://github.com/volatilityfoundation/profiles) - Volatility profiles for Linux and Mac OS X
 - [martinoj2009/ICMPExfil](https://github.com/martinoj2009/ICMPExfil) - Exfiltrate data with ICMP
 - [AyoobAli/pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL fuzzing tool made of Python
@@ -651,6 +651,7 @@
 
 ## TypeScript 
 
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
