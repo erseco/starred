@@ -78,6 +78,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
@@ -385,7 +386,7 @@
 ## css 
 
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
-- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
+- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF with styles
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
@@ -647,6 +648,10 @@
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 
+## html-css-javascript 
+
+- [exelearning/exeviewer](https://github.com/exelearning/exeviewer) - View eXeLearning content packages directly in your browser.
+
 ## html5 
 
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
@@ -814,7 +819,7 @@
 
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
 - [Witiko/markdown](https://github.com/Witiko/markdown) - :notebook_with_decorative_cover: A package for converting and rendering markdown documents in TeX
-- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
+- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF with styles
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 
 ## material-design 
