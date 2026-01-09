@@ -228,6 +228,7 @@
 
 ## JavaScript 
 
+- [exelearning/exeviewer](https://github.com/exelearning/exeviewer) - View eXeLearning content packages directly in your browser.
 - [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [allotropia/zetajs](https://github.com/allotropia/zetajs) - JS wrapper for ZetaOffice in the browser
@@ -459,7 +460,7 @@
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [mrmattwilkins/google-contacts-sync](https://github.com/mrmattwilkins/google-contacts-sync) - Sync google contacts between accounts using People API
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
-- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
+- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF with styles
 - [3rdIteration/btcrecover](https://github.com/3rdIteration/btcrecover) - BTCRecover is an open source wallet password and seed recovery tool. For seed based recovery, this is primarily useful in situations where you have lost/forgotten parts of your mnemonic, or have made 
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [OscarMaestre/apuntes_sad](https://github.com/OscarMaestre/apuntes_sad) - Estructura para apuntes de Seguridad y alta disponibilidad
