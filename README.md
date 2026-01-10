@@ -564,6 +564,7 @@
 
 ## Rust 
 
+- [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
