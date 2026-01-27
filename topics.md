@@ -102,6 +102,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
@@ -817,6 +818,12 @@
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 
+## malware 
+
+- [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+
 ## markdown 
 
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
@@ -921,6 +928,7 @@
 
 ## others 
 
+- [survos/omeka-bundle](https://github.com/survos/omeka-bundle) - wrapper for API calls to omeka-S
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
 - [leerob/pixo](https://github.com/leerob/pixo) - High-performance image compression library written in Rust.
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
