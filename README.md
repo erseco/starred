@@ -655,6 +655,7 @@
 
 ## TypeScript 
 
+- [TheDevLogger/electron-chrome-tabs](https://github.com/TheDevLogger/electron-chrome-tabs) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
