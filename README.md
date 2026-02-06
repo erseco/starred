@@ -380,7 +380,7 @@
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [WP-Cassify/wp-cassify-develop](https://github.com/WP-Cassify/wp-cassify-develop) - WP CASSIFY, a WordPress CAS plugin
 - [nmarafo/moodle-atto_aceinlineassistant](https://github.com/nmarafo/moodle-atto_aceinlineassistant) - Atto editor plugin
-- [Campus-Digital-FP/fp-virtual-plugin-edicion-materiales](https://github.com/Campus-Digital-FP/fp-virtual-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
+- [FPVirtual/fp-virtual-plugin-edicion-materiales](https://github.com/FPVirtual/fp-virtual-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
 - [al4r0/v4char-web](https://github.com/al4r0/v4char-web) - 
