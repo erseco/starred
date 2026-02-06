@@ -997,7 +997,7 @@
 - [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [trap-bytes/hauditor](https://github.com/trap-bytes/hauditor) - hauditor is a tool designed to analyze the security headers returned by a web page.
 - [otacke/h5p-todo](https://github.com/otacke/h5p-todo) - This is just a list where I publicly drop and re-arrange my ideas and todos for H5P stuff
-- [Campus-Digital-FP/fp-virtual-plugin-edicion-materiales](https://github.com/Campus-Digital-FP/fp-virtual-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
+- [FPVirtual/fp-virtual-plugin-edicion-materiales](https://github.com/FPVirtual/fp-virtual-plugin-edicion-materiales) - Plugin de Moodle para la edición de materiales del ministerio
 - [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js) - Speech Markdown grammar, parser, and formatters for use with JavaScript.
 - [speechmarkdown/docs-speechmarkdown-reference](https://github.com/speechmarkdown/docs-speechmarkdown-reference) - The open source version of the Speech Markdown Reference docs.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
