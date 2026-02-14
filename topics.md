@@ -698,6 +698,7 @@
 
 ## javascript 
 
+- [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
@@ -1372,6 +1373,7 @@
 
 ## security 
 
+- [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
 - [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [erseco/ugr_tfg](https://github.com/erseco/ugr_tfg) - Trabajo de Fin de Grado - Análisis de plataforma de recursos de apoyo a la docencia Prado2
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
