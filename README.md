@@ -655,6 +655,7 @@
 
 ## TypeScript 
 
+- [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
 - [TheDevLogger/electron-chrome-tabs](https://github.com/TheDevLogger/electron-chrome-tabs) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
