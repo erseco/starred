@@ -373,7 +373,7 @@
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
 - [klapaudius/symfony-mcp-server](https://github.com/klapaudius/symfony-mcp-server) - A Symfony package designed for building secure servers based on the Model Context Protocol, utilizing Server-Sent Events (SSE) and/or StreamableHTTP for real-time communication. It offers a scalable t
-- [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
+- [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - Omeka-s-CLI: a command line tool to manage Omeka S instances.
 - [ateeducacion/omeka-s-IsolatedSites](https://github.com/ateeducacion/omeka-s-IsolatedSites) - Module for Omeka-S for restrict users view to the assigned sites
 - [ateeducacion/omeka-s-ModuleTemplate](https://github.com/ateeducacion/omeka-s-ModuleTemplate) - A template repo for developing Omeka S modules from scratch
 - [eliasfernandez/phphinder](https://github.com/eliasfernandez/phphinder) - A PHP powered lightweight search engine
