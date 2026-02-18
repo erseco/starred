@@ -329,6 +329,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - Omeka-s-CLI: a command line tool to manage Omeka S instances.
 - [clems71/globalprotect-saml](https://github.com/clems71/globalprotect-saml) - CLI to drive SAML based auth for Global Protect VPN
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [shinokada/tera](https://github.com/shinokada/tera) - Interactive terminal music radio player. Play your favorite radio station, CRUD your favorite lists, and explore new radio stations from your terminal.  https://tera.codewithshin.com/
@@ -964,7 +965,6 @@
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [lexicalcomputing/lexonomy](https://github.com/lexicalcomputing/lexonomy) - A cloud-based, open-source dictionary writing system for editing, updating and publishing dictionaries, glossaries and similar lexicographic works.
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
-- [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - 
 - [voiceflow/awesome-alexa](https://github.com/voiceflow/awesome-alexa) - The most awesome list about Amazon Alexa ⭐️🤖
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to static site migrator
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
@@ -1492,6 +1492,7 @@
 ## tui 
 
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [GhentCDH/Omeka-S-Cli](https://github.com/GhentCDH/Omeka-S-Cli) - Omeka-s-CLI: a command line tool to manage Omeka S instances.
 - [sudipghimire533/ytui-music](https://github.com/sudipghimire533/ytui-music) - Youtube client in terminal for music ( lightweight youtube client )
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 
