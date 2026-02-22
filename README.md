@@ -8,6 +8,7 @@
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -61,6 +62,10 @@
 ## Batchfile 
 
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
+
+## Bikeshed 
+
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 
 ## C 
 
