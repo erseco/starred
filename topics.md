@@ -939,6 +939,7 @@
 
 ## others 
 
+- [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 - [TheDevLogger/electron-chrome-tabs](https://github.com/TheDevLogger/electron-chrome-tabs) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [survos/omeka-bundle](https://github.com/survos/omeka-bundle) - wrapper for API calls to omeka-S
