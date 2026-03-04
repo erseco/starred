@@ -397,7 +397,7 @@
 - [analogic/lescript](https://github.com/analogic/lescript) - Simplified PHP ACME client
 - [fpoirotte/pssht](https://github.com/fpoirotte/pssht) - SSH server written in PHP
 - [nabeelio/MySQLDiff](https://github.com/nabeelio/MySQLDiff) - A diff tool/class for MySQL
-- [DBDiff/DBDiff](https://github.com/DBDiff/DBDiff) - Compare MySQL databases & automatically create schema & data change scripts/migrations rapidly (up & down SQL supported) for database version control. Supports *some* migration tools.
+- [DBDiff/DBDiff](https://github.com/DBDiff/DBDiff) - Compare MySQL, Postgres or SQLite databases & automatically create schema & data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in mig
 - [GeekPress/WP-Quick-Install](https://github.com/GeekPress/WP-Quick-Install) - WP Quick Install is the easiest way to install WordPress.
 - [Prestashop-Modules/searchterm](https://github.com/Prestashop-Modules/searchterm) - 
 - [PrestaShop/PrestaShop-webservice-lib](https://github.com/PrestaShop/PrestaShop-webservice-lib) - PHP client for PrestaShop Webservices
