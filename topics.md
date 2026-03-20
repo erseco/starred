@@ -947,6 +947,7 @@
 
 ## others 
 
+- [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
 - [FacturaScripts/bootemas](https://github.com/FacturaScripts/bootemas) - Añade 21 temas nuevos a FacturaScripts
 - [ateeducacion/omeka-s-playground](https://github.com/ateeducacion/omeka-s-playground) - 
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
