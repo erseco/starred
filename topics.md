@@ -953,6 +953,7 @@
 
 ## others 
 
+- [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [darkspock/desksupportmonkey](https://github.com/darkspock/desksupportmonkey) - 
 - [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
