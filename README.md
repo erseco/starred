@@ -377,7 +377,7 @@
 - [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.
 - [RusticiSoftware/SCORMCloud_WordPressPlugin](https://github.com/RusticiSoftware/SCORMCloud_WordPressPlugin) - A plugin for integrating the SCORM Cloud service into WordPress.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
-- [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - CF Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
+- [dcarrero/cf-football-bypass](https://github.com/dcarrero/cf-football-bypass) - ES Football Bypass es un plugin disenado para sitios web espanoles que enfrentan bloqueos masivos de IPs durante los partidos de futbol debido a las ordenes judiciales solicitadas por LaLiga.
 - [erseco/alpine-omeka-s](https://github.com/erseco/alpine-omeka-s) - Omeka S docker image based on Alpine Linux
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
