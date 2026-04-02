@@ -969,6 +969,7 @@
 
 ## others 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [darkspock/thebrokentelephone_sample](https://github.com/darkspock/thebrokentelephone_sample) - 
 - [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
