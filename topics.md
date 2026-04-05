@@ -282,6 +282,7 @@
 
 ## bash 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 
@@ -337,6 +338,8 @@
 
 ## cli 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [erseco/python-moodle](https://github.com/erseco/python-moodle) - Pythonic CLI and library to manage Moodle instances via web sessions
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -474,6 +477,8 @@
 
 ## docker 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [erseco/alpine-omeka-s](https://github.com/erseco/alpine-omeka-s) - Omeka S docker image based on Alpine Linux
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -537,6 +542,7 @@
 
 ## flask 
 
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 
 ## framework 
@@ -597,6 +603,7 @@
 
 ## golang 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -636,12 +643,14 @@
 
 ## hacking 
 
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
 ## hacking-tool 
 
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 
@@ -700,6 +709,7 @@
 
 ## http 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -968,6 +978,9 @@
 
 ## osint 
 
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
+- [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
 - [Cl4r4-5/OriON](https://github.com/Cl4r4-5/OriON) - OriON is a virtual machine in Spanish that incorporates several tools for Open Source Intelligence (OSINT) on people.
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
@@ -975,6 +988,9 @@
 
 ## others 
 
+- [caiiiycuk/postgresql-to-sqlite](https://github.com/caiiiycuk/postgresql-to-sqlite) - pg2sqlite is easy to use solution to create sqlite database from postgresql dump
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+- [zayedaljaberi/urlfuzzing](https://github.com/zayedaljaberi/urlfuzzing) - Advance URL Fuzzing + Whois Domain running on python
 - [darkspock/thebrokentelephone_sample](https://github.com/darkspock/thebrokentelephone_sample) - 
 - [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -1264,6 +1280,7 @@
 
 ## penetration-testing 
 
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
@@ -1332,6 +1349,8 @@
 
 ## python 
 
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [erseco/python-moodle](https://github.com/erseco/python-moodle) - Pythonic CLI and library to manage Moodle instances via web sessions
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [Antcating/telegram-remote-bot](https://github.com/Antcating/telegram-remote-bot) - Telegram Remote Administration Tool
@@ -1377,6 +1396,7 @@
 
 ## python3 
 
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
 - [Kev-in123/google-forms](https://github.com/Kev-in123/google-forms) - Use this code to fill in a google form
 - [al0ne/Vxscan](https://github.com/al0ne/Vxscan) - python3写的综合扫描工具，主要用来存活验证，敏感文件探测(目录扫描/js泄露接口/html注释泄露)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏。
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
@@ -1419,6 +1439,7 @@
 
 ## security 
 
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [nyariv/SandboxJS](https://github.com/nyariv/SandboxJS) - Safe eval runtime
 - [mayankmetha/Rucky](https://github.com/mayankmetha/Rucky) - A simple to use USB HID Rubber Ducky Launch Pad for Android.
 - [erseco/ugr_tfg](https://github.com/erseco/ugr_tfg) - Trabajo de Fin de Grado - Análisis de plataforma de recursos de apoyo a la docencia Prado2
@@ -1458,6 +1479,7 @@
 
 ## server 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
 ## serverless 
@@ -1467,6 +1489,7 @@
 
 ## shell 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
