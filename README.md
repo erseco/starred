@@ -41,6 +41,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
@@ -143,7 +144,6 @@
 
 - [openai/codex-universal](https://github.com/openai/codex-universal) - Base docker image used in Codex environments
 - [jimsihk/alpine-php-nginx](https://github.com/jimsihk/alpine-php-nginx) - Docker image with NGINX & PHP-FPM on Alpine Linux
-- [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
 - [jusbrasil/github-action-s3cmd](https://github.com/jusbrasil/github-action-s3cmd) - S3cmd GitHub Action
 
 ## GDScript 
@@ -152,6 +152,7 @@
 
 ## Go 
 
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
@@ -425,6 +426,11 @@
 
 ## Python 
 
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+- [zayedaljaberi/urlfuzzing](https://github.com/zayedaljaberi/urlfuzzing) - Advance URL Fuzzing + Whois Domain running on python
+- [fsociety-team/fsociety](https://github.com/fsociety-team/fsociety) - A Modular Penetration Testing Framework
+- [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
+- [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [darkspock/desksupportmonkey](https://github.com/darkspock/desksupportmonkey) - 
 - [erseco/python-moodle](https://github.com/erseco/python-moodle) - Pythonic CLI and library to manage Moodle instances via web sessions
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -597,6 +603,10 @@
 
 - [openSUSE/landing-page](https://github.com/openSUSE/landing-page) - openSUSE landing page which features Tumbleweed and Leap
 
+## Scala 
+
+- [caiiiycuk/postgresql-to-sqlite](https://github.com/caiiiycuk/postgresql-to-sqlite) - pg2sqlite is easy to use solution to create sqlite database from postgresql dump
+
 ## Shell 
 
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
@@ -608,6 +618,7 @@
 - [frozzare/docker-wptest](https://github.com/frozzare/docker-wptest) - 🐳 Run WordPress tests in a Docker container
 - [Azkali/GVT-GPD-Win2](https://github.com/Azkali/GVT-GPD-Win2) - iGPU passthrough with GVT-G
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
+- [erseco/alpine-php-webserver](https://github.com/erseco/alpine-php-webserver) - Docker image with Nginx & PHP-FPM on Alpine Linux
 - [stnby/AlpineDroid](https://github.com/stnby/AlpineDroid) - Alpine Linux chroot environment for your Android smart device. (mirror)
 - [Cl4r4-5/OriON](https://github.com/Cl4r4-5/OriON) - OriON is a virtual machine in Spanish that incorporates several tools for Open Source Intelligence (OSINT) on people.
 - [21y4d/nmapAutomator](https://github.com/21y4d/nmapAutomator) - A script that you can run in the background!
