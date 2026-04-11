@@ -1198,7 +1198,6 @@
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [exolever/pyaccredible](https://github.com/exolever/pyaccredible) - Accredible python Wrapper
 - [adammunoz/lambda-calculus](https://github.com/adammunoz/lambda-calculus) - 
-- [exolever/django-changelog](https://github.com/exolever/django-changelog) - Managing changes during release time
 - [whybe/jira2github](https://github.com/whybe/jira2github) - This is a simple project to migrate issues from jira to github.
 - [bedefaced/vpn-install](https://github.com/bedefaced/vpn-install) - Simple PPTP, L2TP/IPsec, OpenVPN installers
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
