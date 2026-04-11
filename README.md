@@ -524,7 +524,6 @@
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [exolever/pyaccredible](https://github.com/exolever/pyaccredible) - Accredible python Wrapper
-- [exolever/django-changelog](https://github.com/exolever/django-changelog) - Managing changes during release time
 - [whybe/jira2github](https://github.com/whybe/jira2github) - This is a simple project to migrate issues from jira to github.
 - [peakwinter/python-nginx](https://github.com/peakwinter/python-nginx) - Create and modify nginx serverblock configs in Python
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
