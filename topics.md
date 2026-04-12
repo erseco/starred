@@ -26,7 +26,6 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
-- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [claude-code](#claude-code)
 - [cli](#cli)
@@ -336,10 +335,6 @@
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 
-## chrome 
-
-- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
-
 ## chrome-extension 
 
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -506,7 +501,6 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [z0mbix/rolecule](https://github.com/z0mbix/rolecule) - Small, simple tool to test your ansible roles
-- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [erseco/alpine-wordpress](https://github.com/erseco/alpine-wordpress) - WordPress docker image based on Alpine Linux
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [crazy-max/ghaction-docker-buildx](https://github.com/crazy-max/ghaction-docker-buildx) - :octocat: GitHub Action to set up Docker Buildx
@@ -644,6 +638,7 @@
 
 ## google 
 
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [fleapower/Google-Script-Contacts-Sync](https://github.com/fleapower/Google-Script-Contacts-Sync) - Synchronize Google contacts across multiple accounts.
 
@@ -685,7 +680,6 @@
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning is an AGPL-licensed free/libre tool to create and publish open educational resources.
-- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
@@ -1025,12 +1019,12 @@
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [zayedaljaberi/urlfuzzing](https://github.com/zayedaljaberi/urlfuzzing) - Advance URL Fuzzing + Whois Domain running on python
 - [darkspock/thebrokentelephone_sample](https://github.com/darkspock/thebrokentelephone_sample) - 
-- [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - 
+- [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - Run FacturaScripts in the browser via WebAssembly PHP
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [darkspock/desksupportmonkey](https://github.com/darkspock/desksupportmonkey) - 
 - [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
 - [FacturaScripts/bootemas](https://github.com/FacturaScripts/bootemas) - Añade 21 temas nuevos a FacturaScripts
-- [ateeducacion/omeka-s-playground](https://github.com/ateeducacion/omeka-s-playground) - 
+- [ateeducacion/omeka-s-playground](https://github.com/ateeducacion/omeka-s-playground) - Run Omeka-S in the browser via WebAssembly PHP
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 - [TheDevLogger/electron-chrome-tabs](https://github.com/TheDevLogger/electron-chrome-tabs) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
@@ -1048,7 +1042,6 @@
 - [GhentCDH/Omeka-S-Docker](https://github.com/GhentCDH/Omeka-S-Docker) - 
 - [openai/codex-universal](https://github.com/openai/codex-universal) - Base docker image used in Codex environments
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
-- [Zoobdude/alpine-chrome](https://github.com/Zoobdude/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
