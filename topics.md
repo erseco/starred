@@ -292,6 +292,7 @@
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## bitcoin 
 
@@ -947,6 +948,7 @@
 
 - [jbergstroem/mariadb-alpine](https://github.com/jbergstroem/mariadb-alpine) - A tiny and fast MariaDB container
 - [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
+- [DBDiff/DBDiff](https://github.com/DBDiff/DBDiff) - Compare MySQL, Postgres or SQLite databases & automatically create schema & data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in mig
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 
@@ -1012,6 +1014,7 @@
 
 ## others 
 
+- [joseconti/declaracion-renta-espana](https://github.com/joseconti/declaracion-renta-espana) - SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)
 - [darkspock/gosnag](https://github.com/darkspock/gosnag) - Self-hosted Sentry-compatible error tracking service
 - [benjitaylor/liveline](https://github.com/benjitaylor/liveline) - Real-time animated line chart for React.
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
@@ -1242,7 +1245,6 @@
 - [JPaulMora/Pyrit](https://github.com/JPaulMora/Pyrit) - The famous WPA precomputed cracker, Migrated from Google.
 - [koniu/autowwan](https://github.com/koniu/autowwan) - 'autoap'-clone for OpenWrt in Lua
 - [nabeelio/MySQLDiff](https://github.com/nabeelio/MySQLDiff) - A diff tool/class for MySQL
-- [DBDiff/DBDiff](https://github.com/DBDiff/DBDiff) - Compare MySQL, Postgres or SQLite databases & automatically create schema & data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in mig
 - [aspiers/mysqldiff](https://github.com/aspiers/mysqldiff) - tool and CPAN suite backend for comparing MySQL database schemas
 - [artclarke/humble-video](https://github.com/artclarke/humble-video) - Humble Video: Demuxing, Decoding, Filtering, Encoding and Muxing of 100's of video and audio formats and Codecs from the JVM
 - [funkandwagnalls/ranger](https://github.com/funkandwagnalls/ranger) - A tool for security professionals to access and interact with remote Microsoft Windows based systems.
@@ -1349,6 +1351,7 @@
 - [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
 - [asgeirrr/pgantomizer](https://github.com/asgeirrr/pgantomizer) - Anonymize data in your PostgreSQL dabatase with ease
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [DBDiff/DBDiff](https://github.com/DBDiff/DBDiff) - Compare MySQL, Postgres or SQLite databases & automatically create schema & data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in mig
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## privacy 
@@ -1532,6 +1535,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [jgillich/faststack](https://github.com/jgillich/faststack) - Linux workspaces
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## spring-boot 
 
@@ -1546,6 +1550,7 @@
 
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [Archmonger/django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Backup and restore your Django database and media
+- [DBDiff/DBDiff](https://github.com/DBDiff/DBDiff) - Compare MySQL, Postgres or SQLite databases & automatically create schema & data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in mig
 
 ## stable-diffusion 
 
@@ -1618,6 +1623,7 @@
 
 - [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up a fresh Ubuntu Server install as an IKEv2 VPN server
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## unity 
 
