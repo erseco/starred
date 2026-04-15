@@ -617,7 +617,7 @@
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [GhentCDH/Omeka-S-Docker](https://github.com/GhentCDH/Omeka-S-Docker) - 
 - [rjamestaylor/macos-globalprotect-bot](https://github.com/rjamestaylor/macos-globalprotect-bot) - A comprehensive macOS automation suite for GlobalProtect VPN connections with Okta/SAML integration, designed for easy configuration and deployment.
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
