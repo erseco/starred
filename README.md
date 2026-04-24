@@ -431,6 +431,7 @@
 
 ## Python 
 
+- [patrup/mcp-libre](https://github.com/patrup/mcp-libre) - 
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
