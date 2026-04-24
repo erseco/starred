@@ -1028,6 +1028,7 @@
 
 ## others 
 
+- [patrup/mcp-libre](https://github.com/patrup/mcp-libre) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [joseconti/declaracion-renta-espana](https://github.com/joseconti/declaracion-renta-espana) - SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)
 - [darkspock/gosnag](https://github.com/darkspock/gosnag) - Self-hosted Sentry-compatible error tracking service
