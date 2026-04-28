@@ -239,6 +239,7 @@
 
 ## JavaScript 
 
+- [jjdeharo/kit_ia_exelearning](https://github.com/jjdeharo/kit_ia_exelearning) - 
 - [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - Run FacturaScripts in the browser via WebAssembly PHP
 - [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
 - [ateeducacion/omeka-s-playground](https://github.com/ateeducacion/omeka-s-playground) - Run Omeka-S in the browser via WebAssembly PHP
