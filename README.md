@@ -239,6 +239,8 @@
 
 ## JavaScript 
 
+- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
+- [LearningML-Education/lml-editor-lit](https://github.com/LearningML-Education/lml-editor-lit) - LearningML editor
 - [jjdeharo/kit_ia_exelearning](https://github.com/jjdeharo/kit_ia_exelearning) - 
 - [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - Run FacturaScripts in the browser via WebAssembly PHP
 - [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
@@ -341,6 +343,7 @@
 
 ## Others 
 
+- [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [joseconti/declaracion-renta-espana](https://github.com/joseconti/declaracion-renta-espana) - SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
@@ -467,7 +470,7 @@
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Tahoe support!
 - [goFrendiAsgard/markdown-to-moodle-xml](https://github.com/goFrendiAsgard/markdown-to-moodle-xml) - Convert markdown to moodle xml, So that you can enjoy life rather than doing copy-pasting like mere muggles
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
@@ -710,7 +713,6 @@
 - [TheDevLogger/electron-chrome-tabs](https://github.com/TheDevLogger/electron-chrome-tabs) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
