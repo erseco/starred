@@ -483,7 +483,6 @@
 ## devops 
 
 - [erseco/python-moodle](https://github.com/erseco/python-moodle) - Pythonic CLI and library to manage Moodle instances via web sessions
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1035,6 +1034,9 @@
 
 ## others 
 
+- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
+- [LearningML-Education/lml-editor-lit](https://github.com/LearningML-Education/lml-editor-lit) - LearningML editor
+- [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
 - [jjdeharo/kit_ia_exelearning](https://github.com/jjdeharo/kit_ia_exelearning) - 
 - [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
 - [patrup/mcp-libre](https://github.com/patrup/mcp-libre) - 
@@ -1127,7 +1129,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [SokoloffA/radiola](https://github.com/SokoloffA/radiola) - 
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [goFrendiAsgard/markdown-to-moodle-xml](https://github.com/goFrendiAsgard/markdown-to-moodle-xml) - Convert markdown to moodle xml, So that you can enjoy life rather than doing copy-pasting like mere muggles
 - [timdams/moodle-book](https://github.com/timdams/moodle-book) - Convert markdown coruse to moodle book archive
