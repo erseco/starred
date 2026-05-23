@@ -1034,6 +1034,7 @@
 
 ## others 
 
+- [shebisabeen/chrome-recorder-extension](https://github.com/shebisabeen/chrome-recorder-extension) - A Chrome extension that simultaneously records both tab audio and microphone input, with advanced audio processing capabilities.
 - [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
 - [LearningML-Education/lml-editor-lit](https://github.com/LearningML-Education/lml-editor-lit) - LearningML editor
 - [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
