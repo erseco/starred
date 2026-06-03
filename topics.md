@@ -1077,7 +1077,7 @@
 - [exelearning/exelearning-style-designer](https://github.com/exelearning/exelearning-style-designer) - A tool designed to simplify style development for eXeLearning 3. It is intended for programmers and designers with experience in eXeLearning, CSS, and JavaScript.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [medicalopenworld/IncuNest](https://github.com/medicalopenworld/IncuNest) - Low-cost, open source infant incubator
-- [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX - Marp themes still created with beauty and simplicity in mind. (Marpstyle 2.0)
+- [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX! It is still 'Marp themes', created with beauty and simplicity in mind. (like a Marpstyle 2.0)
 - [GhentCDH/Omeka-S-Docker](https://github.com/GhentCDH/Omeka-S-Docker) - 
 - [openai/codex-universal](https://github.com/openai/codex-universal) - Base docker image used in Codex environments
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
