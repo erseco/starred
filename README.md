@@ -119,7 +119,7 @@
 
 - [ateeducacion/omeka-s-GlobalLandingPage](https://github.com/ateeducacion/omeka-s-GlobalLandingPage) - Module for override the global index template page for one in a theme
 - [exelearning/exelearning-style-designer](https://github.com/exelearning/exelearning-style-designer) - A tool designed to simplify style development for eXeLearning 3. It is intended for programmers and designers with experience in eXeLearning, CSS, and JavaScript.
-- [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX - Marp themes still created with beauty and simplicity in mind. (Marpstyle 2.0)
+- [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX! It is still 'Marp themes', created with beauty and simplicity in mind. (like a Marpstyle 2.0)
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [tarugoconf/top](https://github.com/tarugoconf/top) - Lume theme to create a website for an event
 - [willianmano/moodle-theme_moove](https://github.com/willianmano/moodle-theme_moove) - A Moodle Boost child theme
