@@ -436,6 +436,7 @@
 
 ## Python 
 
+- [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [patrup/mcp-libre](https://github.com/patrup/mcp-libre) - 
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
