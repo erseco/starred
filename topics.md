@@ -1043,6 +1043,7 @@
 
 ## others 
 
+- [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [FacturaScripts/fs-claude-plugin](https://github.com/FacturaScripts/fs-claude-plugin) - 
 - [shebisabeen/chrome-recorder-extension](https://github.com/shebisabeen/chrome-recorder-extension) - A Chrome extension that simultaneously records both tab audio and microphone input, with advanced audio processing capabilities.
 - [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
