@@ -253,7 +253,6 @@
 - [exelearning/exelearning](https://github.com/exelearning/exelearning) - eXeLearning is an AGPL-licensed free/libre tool to create and publish open educational resources.
 - [d4n5h/Duckuino](https://github.com/d4n5h/Duckuino) - DuckyScript to Arduino converter with mouse emulation
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [qwertytiles/qwertytiles.github.io](https://github.com/qwertytiles/qwertytiles.github.io) - A speed typing game.
 - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Markdown to Anki converter
@@ -723,6 +722,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js) - Speech Markdown grammar, parser, and formatters for use with JavaScript.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [crazy-max/ghaction-docker-buildx](https://github.com/crazy-max/ghaction-docker-buildx) - :octocat: GitHub Action to set up Docker Buildx
