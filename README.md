@@ -434,6 +434,7 @@
 
 ## Python 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [patrup/mcp-libre](https://github.com/patrup/mcp-libre) - 
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
