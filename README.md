@@ -703,6 +703,7 @@
 
 ## TypeScript 
 
+- [jespervos/blossom-carousel](https://github.com/jespervos/blossom-carousel) - Native-first carousel enhanced with drag support for pointer devices.
 - [FacturaScripts/fs-claude-plugin](https://github.com/FacturaScripts/fs-claude-plugin) - 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
