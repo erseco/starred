@@ -1047,6 +1047,8 @@
 
 ## others 
 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [jespervos/blossom-carousel](https://github.com/jespervos/blossom-carousel) - Native-first carousel enhanced with drag support for pointer devices.
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [FacturaScripts/fs-claude-plugin](https://github.com/FacturaScripts/fs-claude-plugin) - 
