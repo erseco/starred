@@ -624,6 +624,7 @@
 
 ## Shell 
 
+- [Exponential-Organizations/building-an-exo-skill](https://github.com/Exponential-Organizations/building-an-exo-skill) - Claude skill for building your own Exponential Organization
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
