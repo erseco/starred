@@ -705,6 +705,7 @@
 
 ## TypeScript 
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [jcputney/scorm-again](https://github.com/jcputney/scorm-again) - A modern SCORM JavaScript runtime library.
 - [jespervos/blossom-carousel](https://github.com/jespervos/blossom-carousel) - Native-first carousel enhanced with drag support for pointer devices.
 - [FacturaScripts/fs-claude-plugin](https://github.com/FacturaScripts/fs-claude-plugin) - 
