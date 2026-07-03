@@ -449,7 +449,7 @@
 - [erseco/python-moodle](https://github.com/erseco/python-moodle) - Pythonic CLI and library to manage Moodle instances via web sessions
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [jimsafley/omeka-client-py](https://github.com/jimsafley/omeka-client-py) - 
 - [tylermenezes/FakeSSH](https://github.com/tylermenezes/FakeSSH) - Fake SSH server for confusing spammers, because we all know security through obscurity rocks.
