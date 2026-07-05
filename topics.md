@@ -1068,6 +1068,7 @@
 
 ## others 
 
+- [matbeedotcom/libreoffice-document-converter](https://github.com/matbeedotcom/libreoffice-document-converter) - WASM build of a minimal headless / library which is intended to support document conversion on web and server.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [Exponential-Organizations/building-an-exo-skill](https://github.com/Exponential-Organizations/building-an-exo-skill) - Claude skill for building your own Exponential Organization
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
