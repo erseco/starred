@@ -706,6 +706,7 @@
 
 ## TypeScript 
 
+- [matbeedotcom/libreoffice-document-converter](https://github.com/matbeedotcom/libreoffice-document-converter) - WASM build of a minimal headless / library which is intended to support document conversion on web and server.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [jcputney/scorm-again](https://github.com/jcputney/scorm-again) - A modern SCORM JavaScript runtime library.
