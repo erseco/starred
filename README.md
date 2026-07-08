@@ -345,6 +345,7 @@
 
 ## Others 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [joseconti/declaracion-renta-espana](https://github.com/joseconti/declaracion-renta-espana) - SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)
@@ -706,6 +707,7 @@
 
 ## TypeScript 
 
+- [ElenaTomasVela/GlassParrot](https://github.com/ElenaTomasVela/GlassParrot) - A tool for teaching the basics of AI language models through N-Gram models.
 - [matbeedotcom/libreoffice-document-converter](https://github.com/matbeedotcom/libreoffice-document-converter) - WASM build of a minimal headless / library which is intended to support document conversion on web and server.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
