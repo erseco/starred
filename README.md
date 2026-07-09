@@ -193,6 +193,7 @@
 
 ## HTML 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [casinthecloud/casserverpac4j](https://github.com/casinthecloud/casserverpac4j) - CAS server for pac4j demos
 - [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
