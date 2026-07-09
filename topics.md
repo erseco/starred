@@ -49,6 +49,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [design](#design)
 - [developer-tools](#developer-tools)
 - [devops](#devops)
 - [distributed-systems](#distributed-systems)
@@ -178,6 +179,7 @@
 - [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vagrant](#vagrant)
@@ -497,6 +499,10 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
+
+## design 
+
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 
 ## developer-tools 
 
@@ -1033,6 +1039,7 @@
 
 ## open-source 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -1523,6 +1530,7 @@
 
 ## react 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 
 ## redteam 
@@ -1706,6 +1714,10 @@
 - [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup) - Set up a fresh Ubuntu Server install as an IKEv2 VPN server
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
+
+## ui 
+
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
 
 ## unity 
 
