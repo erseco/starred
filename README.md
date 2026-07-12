@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [ronkok/Temml](https://github.com/ronkok/Temml) - TeX-to-MathML conversion library in JavaScript
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [shebisabeen/chrome-recorder-extension](https://github.com/shebisabeen/chrome-recorder-extension) - A Chrome extension that simultaneously records both tab audio and microphone input, with advanced audio processing capabilities.
@@ -346,6 +347,7 @@
 
 ## Others 
 
+- [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -388,6 +390,7 @@
 
 ## PHP 
 
+- [citricity/mchef](https://github.com/citricity/mchef) - Moodle docker wrapper facilitating docker container creation through recipe templates.
 - [survos/omeka-bundle](https://github.com/survos/omeka-bundle) - wrapper for API calls to omeka-S
 - [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.
 - [RusticiSoftware/SCORMCloud_WordPressPlugin](https://github.com/RusticiSoftware/SCORMCloud_WordPressPlugin) - A plugin for integrating the SCORM Cloud service into WordPress.
@@ -627,6 +630,7 @@
 
 ## Shell 
 
+- [DavidUCL/mchef-moodle-playground-integration](https://github.com/DavidUCL/mchef-moodle-playground-integration) - A couple scripts to test integration between mchef and moodle-playground
 - [Exponential-Organizations/building-an-exo-skill](https://github.com/Exponential-Organizations/building-an-exo-skill) - Claude skill for building your own Exponential Organization
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
