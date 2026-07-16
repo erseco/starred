@@ -361,7 +361,6 @@
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [otacke/h5p-todo](https://github.com/otacke/h5p-todo) - This is just a list where I publicly drop and re-arrange my ideas and todos for H5P stuff
 - [speechmarkdown/docs-speechmarkdown-reference](https://github.com/speechmarkdown/docs-speechmarkdown-reference) - The open source version of the Speech Markdown Reference docs.
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [doktor83/SRBMiner-Multi](https://github.com/doktor83/SRBMiner-Multi) - CPU & GPU cryptocurrency miner
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 - [jeanValverde/rosco](https://github.com/jeanValverde/rosco) - Rosco de pasapalabra en Excel y una base de datos en Access
@@ -472,6 +471,7 @@
 - [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool
 - [72nd/deck-cli](https://github.com/72nd/deck-cli) - CLI Interface for Nextcloud Deck
 - [erseco/moving_target_defense](https://github.com/erseco/moving_target_defense) - Evolutionary Based Moving Target Cyber-Defense Master Thesis
