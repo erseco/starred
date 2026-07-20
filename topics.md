@@ -504,7 +504,7 @@
 
 ## design 
 
-- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 
 ## developer-tools 
 
@@ -1045,7 +1045,7 @@
 
 ## open-source 
 
-- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -1539,7 +1539,7 @@
 
 ## react 
 
-- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 
 ## redteam 
@@ -1726,7 +1726,7 @@
 
 ## ui 
 
-- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Free Open-Source Icon Library for Designers & Developers
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 
 ## unity 
 
@@ -1743,6 +1743,7 @@
 
 ## video 
 
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 
 ## virtual-reality 
