@@ -70,6 +70,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [generative-ai](#generative-ai)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -638,12 +639,17 @@
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 
+## gh-extension 
+
+- [drogers0/gh-image](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads attachments to GitHub from the command line
+
 ## git 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## github 
 
+- [drogers0/gh-image](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads attachments to GitHub from the command line
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [iblancasa/GitHubRankingsSpain](https://github.com/iblancasa/GitHubRankingsSpain) - :arrow_up: Rankings with the most active GitHub users in Spain (sorted by public contributions) :es:
 
