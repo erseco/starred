@@ -152,6 +152,7 @@
 
 ## Go 
 
+- [drogers0/gh-image](https://github.com/drogers0/gh-image) - A gh CLI extension that uploads attachments to GitHub from the command line
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
