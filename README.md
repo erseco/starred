@@ -250,7 +250,6 @@
 - [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
 - [LearningML-Education/lml-editor-lit](https://github.com/LearningML-Education/lml-editor-lit) - LearningML editor
 - [jjdeharo/kit_ia_exelearning](https://github.com/jjdeharo/kit_ia_exelearning) - 
-- [erseco/facturascripts-playground](https://github.com/erseco/facturascripts-playground) - Run FacturaScripts in the browser via WebAssembly PHP
 - [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
 - [ateeducacion/omeka-s-playground](https://github.com/ateeducacion/omeka-s-playground) - Run Omeka-S in the browser via WebAssembly PHP
 - [exelearning/exeviewer](https://github.com/exelearning/exeviewer) - View eXeLearning content packages directly in your browser.
@@ -444,6 +443,7 @@
 
 ## Python 
 
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
