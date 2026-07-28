@@ -1094,6 +1094,7 @@
 
 ## others 
 
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [DavidUCL/mchef-moodle-playground-integration](https://github.com/DavidUCL/mchef-moodle-playground-integration) - A couple scripts to test integration between mchef and moodle-playground
 - [citricity/mchef](https://github.com/citricity/mchef) - Moodle docker wrapper facilitating docker container creation through recipe templates.
 - [ElenaTomasVela/GlassParrot](https://github.com/ElenaTomasVela/GlassParrot) - A tool for teaching the basics of AI language models through N-Gram models.
