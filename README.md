@@ -577,7 +577,6 @@
 - [zostera/django-bootstrap3](https://github.com/zostera/django-bootstrap3) - Bootstrap 3 integration with Django.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [rouge8/20questions](https://github.com/rouge8/20questions) - Artificial Intelligence final project. 20 questions player/simple webapp.
-- [erikackermann/Connect-Four](https://github.com/erikackermann/Connect-Four) - Connect Four game written in python
 - [armooo/cloudprint](https://github.com/armooo/cloudprint) - Google cloudprint proxy
 - [LegacyXperia/local_manifests](https://github.com/LegacyXperia/local_manifests) - Local manifest for building CyanogenMod for Xperia 2011 devices
 
@@ -718,6 +717,7 @@
 
 ## TypeScript 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [ElenaTomasVela/GlassParrot](https://github.com/ElenaTomasVela/GlassParrot) - A tool for teaching the basics of AI language models through N-Gram models.
 - [matbeedotcom/libreoffice-document-converter](https://github.com/matbeedotcom/libreoffice-document-converter) - WASM build of a minimal headless / library which is intended to support document conversion on web and server.
