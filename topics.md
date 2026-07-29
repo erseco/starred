@@ -1057,6 +1057,7 @@
 
 ## open-source 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -1377,7 +1378,6 @@
 - [fvalverd/Android-Easy-Rooting-Toolkit](https://github.com/fvalverd/Android-Easy-Rooting-Toolkit) - Easy Rooting Toolkit for Android
 - [rouge8/20questions](https://github.com/rouge8/20questions) - Artificial Intelligence final project. 20 questions player/simple webapp.
 - [jcalvinowens/asmhttpd](https://github.com/jcalvinowens/asmhttpd) - A minimalist HTTP server for Linux, written in x86_64 assembly
-- [erikackermann/Connect-Four](https://github.com/erikackermann/Connect-Four) - Connect Four game written in python
 - [ddouble/bsie](https://github.com/ddouble/bsie) - Bootstrap IE6 Compatible Library
 - [armooo/cloudprint](https://github.com/armooo/cloudprint) - Google cloudprint proxy
 - [deepakdaswani/whatsapp_discover](https://github.com/deepakdaswani/whatsapp_discover) - "Whatsapp Discover" is a tool for getting phone numbers of devices using Whatsapp by real time sniffing from an interface (disabled in this first version) or from a list of pcap files, which can be pr
@@ -1625,6 +1625,7 @@
 
 ## self-hosted 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
