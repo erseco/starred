@@ -717,6 +717,7 @@
 
 ## TypeScript 
 
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [ElenaTomasVela/GlassParrot](https://github.com/ElenaTomasVela/GlassParrot) - A tool for teaching the basics of AI language models through N-Gram models.
