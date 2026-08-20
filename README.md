@@ -249,8 +249,7 @@
 - [ronkok/Temml](https://github.com/ronkok/Temml) - TeX-to-MathML conversion library in JavaScript
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [shebisabeen/chrome-recorder-extension](https://github.com/shebisabeen/chrome-recorder-extension) - A Chrome extension that simultaneously records both tab audio and microphone input, with advanced audio processing capabilities.
-- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
-- [LearningML-Education/lml-editor-lit](https://github.com/LearningML-Education/lml-editor-lit) - LearningML editor
+- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - Algoritmos de Machine Learning (clasificación de texto, imagen y números) usados por LearningML
 - [jjdeharo/kit_ia_exelearning](https://github.com/jjdeharo/kit_ia_exelearning) - 
 - [ateeducacion/moodle-playground](https://github.com/ateeducacion/moodle-playground) - Run Moodle in the browser via WebAssembly PHP
 - [ateeducacion/omeka-s-playground](https://github.com/ateeducacion/omeka-s-playground) - Run Omeka-S in the browser via WebAssembly PHP
@@ -357,7 +356,6 @@
 
 - [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [joseconti/declaracion-renta-espana](https://github.com/joseconti/declaracion-renta-espana) - SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
