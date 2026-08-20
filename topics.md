@@ -10,6 +10,7 @@
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
+- [algorithms](#algorithms)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -238,6 +239,10 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+
+## algorithms 
+
+- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - Algoritmos de Machine Learning (clasificación de texto, imagen y números) usados por LearningML
 
 ## android 
 
@@ -941,6 +946,7 @@
 
 ## machine-learning 
 
+- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - Algoritmos de Machine Learning (clasificación de texto, imagen y números) usados por LearningML
 - [brannondorsey/PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
 - [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -1113,9 +1119,6 @@
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [FacturaScripts/fs-claude-plugin](https://github.com/FacturaScripts/fs-claude-plugin) - 
 - [shebisabeen/chrome-recorder-extension](https://github.com/shebisabeen/chrome-recorder-extension) - A Chrome extension that simultaneously records both tab audio and microphone input, with advanced audio processing capabilities.
-- [LearningML-Education/lml-algorithms](https://github.com/LearningML-Education/lml-algorithms) - 
-- [LearningML-Education/lml-editor-lit](https://github.com/LearningML-Education/lml-editor-lit) - LearningML editor
-- [LearningML-Education/lml-scratch](https://github.com/LearningML-Education/lml-scratch) - LearningML Scratch version
 - [jjdeharo/kit_ia_exelearning](https://github.com/jjdeharo/kit_ia_exelearning) - 
 - [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
 - [patrup/mcp-libre](https://github.com/patrup/mcp-libre) - 
