@@ -198,7 +198,6 @@
 ## HTML 
 
 - [GitHubNewbie0/odf-kit](https://github.com/GitHubNewbie0/odf-kit) - Generate, fill, and read OpenDocument Format (.odt) files in JavaScript and TypeScript. Works in Node.js and browsers. Build documents from scratch, fill existing templates with data, or convert .odt 
-- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [natannovum/gdpr-video-consent-facade](https://github.com/natannovum/gdpr-video-consent-facade) - Zero-cookie video player embedding for Ghost CMS with GDPR/CCPA compliant YouTube and Vimeo facade placeholders.
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 - [casinthecloud/casserverpac4j](https://github.com/casinthecloud/casserverpac4j) - CAS server for pac4j demos
@@ -449,6 +448,7 @@
 
 ## Python 
 
+- [juanda/exereview](https://github.com/juanda/exereview) - Revisor basado en IA de REAs realizados con exelearning
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
@@ -724,6 +724,7 @@
 ## TypeScript 
 
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [ElenaTomasVela/GlassParrot](https://github.com/ElenaTomasVela/GlassParrot) - A tool for teaching the basics of AI language models through N-Gram models.
 - [matbeedotcom/libreoffice-document-converter](https://github.com/matbeedotcom/libreoffice-document-converter) - WASM build of a minimal headless / library which is intended to support document conversion on web and server.
