@@ -1112,6 +1112,7 @@
 
 ## others 
 
+- [juanda/exereview](https://github.com/juanda/exereview) - Revisor basado en IA de REAs realizados con exelearning
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [DavidUCL/mchef-moodle-playground-integration](https://github.com/DavidUCL/mchef-moodle-playground-integration) - A couple scripts to test integration between mchef and moodle-playground
 - [citricity/mchef](https://github.com/citricity/mchef) - Moodle docker wrapper facilitating docker container creation through recipe templates.
