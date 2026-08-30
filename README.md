@@ -355,6 +355,7 @@
 
 ## Others 
 
+- [fernandotellado/ai-skills](https://github.com/fernandotellado/ai-skills) - AI SKILL.md files
 - [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
@@ -642,6 +643,8 @@
 
 ## Shell 
 
+- [devantler-tech/actions](https://github.com/devantler-tech/actions) - Actions designed to streamline CI/CD processes.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DavidUCL/mchef-moodle-playground-integration](https://github.com/DavidUCL/mchef-moodle-playground-integration) - A couple scripts to test integration between mchef and moodle-playground
 - [Exponential-Organizations/building-an-exo-skill](https://github.com/Exponential-Organizations/building-an-exo-skill) - Claude skill for building your own Exponential Organization
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
