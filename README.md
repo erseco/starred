@@ -245,6 +245,7 @@
 
 ## JavaScript 
 
+- [Apollon77/alexa-remote](https://github.com/Apollon77/alexa-remote) - 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [ronkok/Temml](https://github.com/ronkok/Temml) - TeX-to-MathML conversion library in JavaScript
@@ -291,7 +292,6 @@
 - [adamburmister/gitprint.com](https://github.com/adamburmister/gitprint.com) - Render Github markdown documents for printing
 - [stared/quantum-game](https://github.com/stared/quantum-game) - Quantum Game (old version) - a puzzle game with real quantum mechanics in a browser
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [ben174/git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [1000hz/bootstrap-validator](https://github.com/1000hz/bootstrap-validator) - A user-friendly HTML5 form validation jQuery plugin for Bootstrap 3
@@ -359,7 +359,6 @@
 - [fernandotellado/ai-skills](https://github.com/fernandotellado/ai-skills) - AI SKILL.md files
 - [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [joseconti/declaracion-renta-espana](https://github.com/joseconti/declaracion-renta-espana) - SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
@@ -619,6 +618,7 @@
 
 ## Rust 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -739,6 +739,7 @@
 - [jcputney/scorm-again](https://github.com/jcputney/scorm-again) - A modern SCORM JavaScript runtime library.
 - [jespervos/blossom-carousel](https://github.com/jespervos/blossom-carousel) - Native-first carousel enhanced with drag support for pointer devices.
 - [FacturaScripts/fs-claude-plugin](https://github.com/FacturaScripts/fs-claude-plugin) - 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
 - [darkspock/gosnag](https://github.com/darkspock/gosnag) - Self-hosted Sentry-compatible error tracking service
 - [benjitaylor/liveline](https://github.com/benjitaylor/liveline) - Real-time animated line chart for React.
@@ -765,6 +766,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
