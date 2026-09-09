@@ -499,6 +499,7 @@
 
 ## css 
 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
 - [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF with styles
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -814,6 +815,7 @@
 
 ## html 
 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [GitHubNewbie0/odf-kit](https://github.com/GitHubNewbie0/odf-kit) - Generate, fill, and read OpenDocument Format (.odt) files in JavaScript and TypeScript. Works in Node.js and browsers. Build documents from scratch, fill existing templates with data, or convert .odt 
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
@@ -1148,6 +1150,7 @@
 
 ## others 
 
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [Apollon77/alexa-remote](https://github.com/Apollon77/alexa-remote) - 
 - [ManuelCebreiro/spanish-cities-info](https://github.com/ManuelCebreiro/spanish-cities-info) - 8,132 municipios de España verificados contra el INE. Búsqueda por nombre, provincia, comunidad o radio (km). TypeScript, imports modulares.
 - [devantler-tech/actions](https://github.com/devantler-tech/actions) - Actions designed to streamline CI/CD processes.
