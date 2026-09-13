@@ -1149,6 +1149,7 @@
 
 ## others 
 
+- [edimarkweb/edimarkweb.github.io](https://github.com/edimarkweb/edimarkweb.github.io) - Editor de Markdown
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [Apollon77/alexa-remote](https://github.com/Apollon77/alexa-remote) - 
 - [ManuelCebreiro/spanish-cities-info](https://github.com/ManuelCebreiro/spanish-cities-info) - 8,132 municipios de España verificados contra el INE. Búsqueda por nombre, provincia, comunidad o radio (km). TypeScript, imports modulares.
