@@ -1700,6 +1700,7 @@
 
 ## self-hosted 
 
+- [dei79/disk-shell](https://github.com/dei79/disk-shell) - Native multi-tab terminal for Synology DSM with background sessions, split views, search and secure file uploads.
 - [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1719,6 +1720,7 @@
 
 ## shell 
 
+- [dei79/disk-shell](https://github.com/dei79/disk-shell) - Native multi-tab terminal for Synology DSM with background sessions, split views, search and secure file uploads.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
@@ -1786,6 +1788,7 @@
 
 ## terminal 
 
+- [dei79/disk-shell](https://github.com/dei79/disk-shell) - Native multi-tab terminal for Synology DSM with background sessions, split views, search and secure file uploads.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
