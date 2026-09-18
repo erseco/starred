@@ -649,6 +649,7 @@
 
 ## Shell 
 
+- [GitHubSecurityLab/gh-secure](https://github.com/GitHubSecurityLab/gh-secure) - A GitHub CLI extension to enable security features on repositories following best practices from GitHub Security Lab.
 - [devantler-tech/actions](https://github.com/devantler-tech/actions) - Actions designed to streamline CI/CD processes.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [DavidUCL/mchef-moodle-playground-integration](https://github.com/DavidUCL/mchef-moodle-playground-integration) - A couple scripts to test integration between mchef and moodle-playground
