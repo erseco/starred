@@ -1153,6 +1153,7 @@
 
 ## others 
 
+- [fmateos/AFSGAW](https://github.com/fmateos/AFSGAW) - Automatic Feature Selection in classification algorithms using Genetic Algorithms and Wrapper methods with Apache Spark RDDs
 - [edimarkweb/edimarkweb.github.io](https://github.com/edimarkweb/edimarkweb.github.io) - Editor de Markdown
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [Apollon77/alexa-remote](https://github.com/Apollon77/alexa-remote) - 
