@@ -315,6 +315,7 @@
 
 ## Jupyter Notebook 
 
+- [fmateos/AFSGAW](https://github.com/fmateos/AFSGAW) - Automatic Feature Selection in classification algorithms using Genetic Algorithms and Wrapper methods with Apache Spark RDDs
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [YesWeTech/Python-and-Django-workshops](https://github.com/YesWeTech/Python-and-Django-workshops) - Tutoriales usados en nuestro taller de Python y Django "Women in Django".
