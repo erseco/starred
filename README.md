@@ -45,6 +45,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Twig](#twig)
@@ -275,7 +276,6 @@
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [YJDoc2/8086-emulator-web](https://github.com/YJDoc2/8086-emulator-web) - Repository for 8086 emulator web implementation
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [fleapower/Google-Script-Contacts-Sync](https://github.com/fleapower/Google-Script-Contacts-Sync) - Synchronize Google contacts across multiple accounts.
 - [jmsaugar/fastboard.io.back](https://github.com/jmsaugar/fastboard.io.back) - 
@@ -702,9 +702,13 @@
 - [rubendivall/survey-opt-in-ps-17](https://github.com/rubendivall/survey-opt-in-ps-17) - Survey opt-in for Google Merchant Center Prestashop 1.7
 - [rubendivall/PrestaShop-SEO-Snippets](https://github.com/rubendivall/PrestaShop-SEO-Snippets) - Various snippets to imporve SEO in Prestashop
 
+## Svelte 
+
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+
 ## Swift 
 
-- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [SokoloffA/radiola](https://github.com/SokoloffA/radiola) - 
