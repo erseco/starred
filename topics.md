@@ -1153,6 +1153,8 @@
 
 ## others 
 
+- [derv82/wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
+- [Vibe-Coding-Educativo/vibe-responsable](https://github.com/Vibe-Coding-Educativo/vibe-responsable) - Guía para publicar materiales educativos creados con vibe coding: licencias, datos del alumnado, accesibilidad y transparencia sobre el uso de la IA.
 - [fmateos/AFSGAW](https://github.com/fmateos/AFSGAW) - Automatic Feature Selection in classification algorithms using Genetic Algorithms and Wrapper methods with Apache Spark RDDs
 - [edimarkweb/edimarkweb.github.io](https://github.com/edimarkweb/edimarkweb.github.io) - Editor de Markdown
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
