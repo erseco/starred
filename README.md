@@ -742,6 +742,7 @@
 
 ## TypeScript 
 
+- [hugerte/hugerte](https://github.com/hugerte/hugerte) - MIT-licensed fork of TinyMCE, the world's #1 JavaScript library for rich text editing, which switched from MIT to a GPL-or-pay license model in its latest version.
 - [ManuelCebreiro/spanish-cities-info](https://github.com/ManuelCebreiro/spanish-cities-info) - 8,132 municipios de España verificados contra el INE. Búsqueda por nombre, provincia, comunidad o radio (km). TypeScript, imports modulares.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
