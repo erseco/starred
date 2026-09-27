@@ -867,6 +867,7 @@
 
 ## javascript 
 
+- [hugerte/hugerte](https://github.com/hugerte/hugerte) - MIT-licensed fork of TinyMCE, the world's #1 JavaScript library for rich text editing, which switched from MIT to a GPL-or-pay license model in its latest version.
 - [GitHubNewbie0/odf-kit](https://github.com/GitHubNewbie0/odf-kit) - Generate, fill, read, and convert OpenDocument files (.odt, .ods) in TypeScript and JavaScript. Convert HTML, Markdown, TipTap JSON, Lexical JSON, DOCX and XLSX into ODF. Node.js and browsers. No Libr
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [ronkok/Temml](https://github.com/ronkok/Temml) - TeX-to-MathML conversion library in JavaScript
