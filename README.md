@@ -203,7 +203,6 @@
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [GitHubNewbie0/odf-kit](https://github.com/GitHubNewbie0/odf-kit) - Generate, fill, read, and convert OpenDocument files (.odt, .ods) in TypeScript and JavaScript. Convert HTML, Markdown, TipTap JSON, Lexical JSON, DOCX and XLSX into ODF. Node.js and browsers. No Libr
 - [natannovum/gdpr-video-consent-facade](https://github.com/natannovum/gdpr-video-consent-facade) - Zero-cookie video player embedding for Ghost CMS with GDPR/CCPA compliant YouTube and Vimeo facade placeholders.
-- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 - [casinthecloud/casserverpac4j](https://github.com/casinthecloud/casserverpac4j) - CAS server for pac4j demos
 - [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
@@ -323,6 +322,7 @@
 
 ## Kotlin 
 
+- [dqev/reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [Netdex/android-usb-script](https://github.com/Netdex/android-usb-script) - An Android app that allows you to script USB gadgets in Lua.
