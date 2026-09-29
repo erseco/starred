@@ -1257,7 +1257,6 @@
 - [shuchkin/simplexlsx](https://github.com/shuchkin/simplexlsx) - Parse and retrieve data from Excel XLSx files
 - [qwertytiles/qwertytiles.github.io](https://github.com/qwertytiles/qwertytiles.github.io) - A speed typing game.
 - [mikasmart/moodle-report_benchmark](https://github.com/mikasmart/moodle-report_benchmark) - Moodle Plugins Repository
-- [rogeduardo/afpfs-ng](https://github.com/rogeduardo/afpfs-ng) - afpfs-ng/libafpclient is an open source client for the Apple Filing Protocol
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [72nd/deck-cli](https://github.com/72nd/deck-cli) - CLI Interface for Nextcloud Deck
 - [neooffice/NeoOffice](https://github.com/neooffice/NeoOffice) - 
