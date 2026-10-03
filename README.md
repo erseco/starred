@@ -453,6 +453,7 @@
 
 ## Python 
 
+- [BquantFinance/Administracion-fuentes-publicas](https://github.com/BquantFinance/Administracion-fuentes-publicas) - 
 - [derv82/wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
