@@ -1154,6 +1154,7 @@
 
 ## others 
 
+- [BquantFinance/Administracion-fuentes-publicas](https://github.com/BquantFinance/Administracion-fuentes-publicas) - 
 - [derv82/wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 - [Vibe-Coding-Educativo/vibe-responsable](https://github.com/Vibe-Coding-Educativo/vibe-responsable) - Guía para publicar materiales educativos creados con vibe coding: licencias, datos del alumnado, accesibilidad y transparencia sobre el uso de la IA.
 - [fmateos/AFSGAW](https://github.com/fmateos/AFSGAW) - Automatic Feature Selection in classification algorithms using Genetic Algorithms and Wrapper methods with Apache Spark RDDs
