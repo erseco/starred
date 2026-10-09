@@ -415,6 +415,7 @@
 
 ## claude-code 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
@@ -558,6 +559,7 @@
 
 ## developer-tools 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [gholmes829/Jmp](https://github.com/gholmes829/Jmp) - You'll never use the cd cmd again.
@@ -975,6 +977,7 @@
 
 ## llm 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
@@ -1292,7 +1295,7 @@
 - [murtazahassan/Tello-Object-Tracking](https://github.com/murtazahassan/Tello-Object-Tracking) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [matthewwall/weewx-interceptor](https://github.com/matthewwall/weewx-interceptor) - weewx driver that intercepts web traffic from internet 'bridge' devices such as Acurite Access, ObserverIP, OS LW30x, LaCross GW1000U, FineOffset GW1000
 - [hashcat/princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm
 - [keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper3.0
