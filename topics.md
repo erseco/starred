@@ -236,7 +236,6 @@
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [klapaudius/symfony-mcp-server](https://github.com/klapaudius/symfony-mcp-server) - A Symfony package designed for building secure servers based on the Model Context Protocol, utilizing Server-Sent Events (SSE) and/or StreamableHTTP for real-time communication. It offers a scalable t
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1170,6 +1169,7 @@
 
 ## others 
 
+- [jjdeharo/exelearning-estilos](https://github.com/jjdeharo/exelearning-estilos) - Estilos de eXeLearning de Juan José de Haro, cada uno con un recurso de ejemplo
 - [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) - 
 - [omeka-s-contrib/omeka-s-blueprints](https://github.com/omeka-s-contrib/omeka-s-blueprints) - A shared, declarative JSON format to describe an Omeka S environment
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
