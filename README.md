@@ -454,6 +454,7 @@
 
 ## Python 
 
+- [meteo-montflorit/meteo-local](https://github.com/meteo-montflorit/meteo-local) - Temps a Montflorit (Cerdanyola del Vallès): codi i registre de decisions de la web, «Si surts» i els avisos a Telegram
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [BquantFinance/Administracion-fuentes-publicas](https://github.com/BquantFinance/Administracion-fuentes-publicas) - 
 - [derv82/wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
