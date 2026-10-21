@@ -1176,6 +1176,7 @@
 
 ## others 
 
+- [meteo-montflorit/meteo-local](https://github.com/meteo-montflorit/meteo-local) - Temps a Montflorit (Cerdanyola del Vallès): codi i registre de decisions de la web, «Si surts» i els avisos a Telegram
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [jjdeharo/exelearning-estilos](https://github.com/jjdeharo/exelearning-estilos) - Estilos de eXeLearning de Juan José de Haro, cada uno con un recurso de ejemplo
 - [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) - 
@@ -1519,7 +1520,6 @@
 
 ## php 
 
-- [moosensei/awesome-moodle](https://github.com/moosensei/awesome-moodle) - 🎓 A comprehensive, curated collection of high-quality Moodle resources for educators, developers, and administrators. Features essential plugins, professional themes, development tools, official docum
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts) - Open source ERP software. Built on modern PHP and bootstrap. Easy and powerful.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
