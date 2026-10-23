@@ -187,6 +187,7 @@
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [tui](#tui)
@@ -739,6 +740,7 @@
 
 ## golang 
 
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
@@ -1176,6 +1178,7 @@
 
 ## others 
 
+- [crgarsan/mitomapa-canario](https://github.com/crgarsan/mitomapa-canario) - Recurso educativo abierto sobre mitos, leyendas y patrimonio canario para Primaria y Secundaria
 - [meteo-montflorit/meteo-local](https://github.com/meteo-montflorit/meteo-local) - Temps a Montflorit (Cerdanyola del Vallès): codi i registre de decisions de la web, «Si surts» i els avisos a Telegram
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [jjdeharo/exelearning-estilos](https://github.com/jjdeharo/exelearning-estilos) - Estilos de eXeLearning de Juan José de Haro, cada uno con un recurso de ejemplo
@@ -1840,6 +1843,10 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [jgillich/faststack](https://github.com/jgillich/faststack) - Linux workspaces
+
+## termux 
+
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 
 ## terraform 
 
