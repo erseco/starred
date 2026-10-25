@@ -61,6 +61,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -626,6 +627,10 @@
 
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
+
+## downloader 
+
+- [C0D3D3V/Moodle-DL](https://github.com/C0D3D3V/Moodle-DL) - Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)
 
 ## dsh-plugin 
 
@@ -1193,7 +1198,6 @@
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [Apollon77/alexa-remote](https://github.com/Apollon77/alexa-remote) - 
 - [ManuelCebreiro/spanish-cities-info](https://github.com/ManuelCebreiro/spanish-cities-info) - 8,132 municipios de España verificados contra el INE. Búsqueda por nombre, provincia, comunidad o radio (km). TypeScript, imports modulares.
-- [devantler-tech/actions](https://github.com/devantler-tech/actions) - Actions designed to streamline CI/CD processes.
 - [juanda/exereview](https://github.com/juanda/exereview) - Revisor basado en IA de REAs realizados con exelearning
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [DavidUCL/mchef-moodle-playground-integration](https://github.com/DavidUCL/mchef-moodle-playground-integration) - A couple scripts to test integration between mchef and moodle-playground
