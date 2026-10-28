@@ -176,6 +176,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -745,7 +746,7 @@
 
 ## golang 
 
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
@@ -1777,6 +1778,11 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [jgillich/faststack](https://github.com/jgillich/faststack) - Linux workspaces
 
+## skills 
+
+- [fernandotellado/ai-skills](https://github.com/fernandotellado/ai-skills) - AI SKILL.md files
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
 ## spring-boot 
 
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -1850,7 +1856,7 @@
 
 ## termux 
 
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 
 ## terraform 
 
@@ -1902,7 +1908,7 @@
 
 ## video 
 
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 
 ## virtual-reality 
