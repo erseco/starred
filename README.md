@@ -246,7 +246,7 @@
 - [jjdeharo/exelearning-estilos](https://github.com/jjdeharo/exelearning-estilos) - Estilos de eXeLearning de Juan José de Haro, cada uno con un recurso de ejemplo
 - [omeka-s-contrib/omeka-s-blueprints](https://github.com/omeka-s-contrib/omeka-s-blueprints) - A shared, declarative JSON format to describe an Omeka S environment
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
-- [edimarkweb/edimarkweb.github.io](https://github.com/edimarkweb/edimarkweb.github.io) - Editor de Markdown
+- [edimarkdown/edimarkdown.github.io](https://github.com/edimarkdown/edimarkdown.github.io) - Editor de Markdown con LaTeX que exporta a Word, LibreOffice, PDF, EPUB y otros formatos
 - [Apollon77/alexa-remote](https://github.com/Apollon77/alexa-remote) - 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
