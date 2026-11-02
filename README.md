@@ -746,6 +746,7 @@
 
 ## TypeScript 
 
+- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
 - [schemd/core](https://github.com/schemd/core) - Strict, bounded, server-side engineering schematic DSL compiler.
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
