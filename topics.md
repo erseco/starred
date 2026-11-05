@@ -219,6 +219,7 @@
 
 ## agent-skills 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
@@ -233,6 +234,7 @@
 
 ## ai 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
@@ -573,6 +575,7 @@
 
 ## design 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [dqev/reicon](https://github.com/dqev/reicon) - Reicon - Open-Source Icon Library for Designers & Developers
 
 ## developer-tools 
