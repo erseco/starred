@@ -246,6 +246,7 @@
 
 ## JavaScript 
 
+- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies
 - [jjdeharo/exelearning-estilos](https://github.com/jjdeharo/exelearning-estilos) - Estilos de eXeLearning de Juan José de Haro, cada uno con un recurso de ejemplo
 - [omeka-s-contrib/omeka-s-blueprints](https://github.com/omeka-s-contrib/omeka-s-blueprints) - A shared, declarative JSON format to describe an Omeka S environment
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
@@ -453,6 +454,7 @@
 
 ## Python 
 
+- [ateeducacion/curriculo_lomloe_canarias](https://github.com/ateeducacion/curriculo_lomloe_canarias) - repositorio que sirva de fuente de verdad del currículo lomloe de Canarias para otros repositorios
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [crgarsan/mitomapa-canario](https://github.com/crgarsan/mitomapa-canario) - Recurso educativo abierto sobre mitos, leyendas y patrimonio canario para Primaria y Secundaria
