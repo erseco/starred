@@ -419,6 +419,7 @@
 
 ## claude 
 
+- [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
@@ -433,6 +434,7 @@
 
 ## claude-code 
 
+- [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
@@ -451,6 +453,7 @@
 
 ## cli 
 
+- [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
 - [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
@@ -1632,6 +1635,7 @@
 
 ## python 
 
+- [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya) - Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
