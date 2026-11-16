@@ -455,6 +455,7 @@
 
 ## Python 
 
+- [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
 - [ateeducacion/curriculo_lomloe_canarias](https://github.com/ateeducacion/curriculo_lomloe_canarias) - repositorio que sirva de fuente de verdad del currículo lomloe de Canarias para otros repositorios
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
