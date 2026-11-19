@@ -638,7 +638,7 @@
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - GlobalProtect VPN client and CLI for macOS, Linux, FreeBSD, and OpenBSD. Built in Rust with SAML SSO, MFA, YubiKey, client certificates, and local SOCKS5 proxy mode.
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - GlobalProtect VPN client for Windows, macOS, Linux, FreeBSD, and OpenBSD. Built in Rust with SAML SSO, MFA, YubiKey, client certificates, and local SOCKS5 proxy mode.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -753,6 +753,7 @@
 
 ## TypeScript 
 
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices
 - [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
 - [schemd/core](https://github.com/schemd/core) - Strict, bounded, server-side engineering schematic DSL compiler.
