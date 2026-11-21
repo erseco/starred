@@ -1436,7 +1436,7 @@
 - [cdown/ansible-desktop](https://github.com/cdown/ansible-desktop) - Ansible playbook for my personal machines.
 - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
 - [rokerkony/dockerize-vps](https://github.com/rokerkony/dockerize-vps) - Set your VPS with docker for multiple websites
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [lulivi/deep-g-prop](https://github.com/lulivi/deep-g-prop) - DeepGProp: Optimización de Redes Neuronales con Algoritmos Genéticos
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [exoeconomy/EXOS-Electrum](https://github.com/exoeconomy/EXOS-Electrum) - Cloud Wallet - EXOS Electrum; EXOS thin client - HD Wallet
