@@ -210,7 +210,6 @@
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [angrykoala/browsers-automation-and-koalas](https://github.com/angrykoala/browsers-automation-and-koalas) - Browsers, Automation, and Koalas
 - [eugenekolo/sec-tools](https://github.com/eugenekolo/sec-tools) - A set of security related tools
-- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [Cerv1/Chief](https://github.com/Cerv1/Chief) - TFG repo
 - [pacastillo/swap1516](https://github.com/pacastillo/swap1516) - Repositorio de SWAP para el curso 2015-2016
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
@@ -231,6 +230,7 @@
 - [manuel-freire/ac2](https://github.com/manuel-freire/ac2) - Source code plagiarism detection tool
 - [jsanchezv/JSpeccy](https://github.com/jsanchezv/JSpeccy) - A multiplatform ZX Spectrum emulator written in Java
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 - [hiteshsahu/ECommerce-App-Android](https://github.com/hiteshsahu/ECommerce-App-Android) - E-Commerce App for Android with Material Design Pattern
 - [alvinj/AndroidAsyncTaskExample](https://github.com/alvinj/AndroidAsyncTaskExample) - This project provides an Android AsyncTask example (and a REST example)
 - [nicolasgramlich/AndEngineExamples](https://github.com/nicolasgramlich/AndEngineExamples) - AndEngine - Examples
@@ -698,7 +698,7 @@
 - [pixelastic/programmingexcuses.sh](https://github.com/pixelastic/programmingexcuses.sh) - Generate a random excuse from the command line.
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 - [cdown/ansible-desktop](https://github.com/cdown/ansible-desktop) - Ansible playbook for my personal machines.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [bedefaced/vpn-install](https://github.com/bedefaced/vpn-install) - Simple PPTP, L2TP/IPsec, OpenVPN installers
 - [binfalse/docker-tools](https://github.com/binfalse/docker-tools) - Some tools that help managing Docker
 - [rasa/vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
