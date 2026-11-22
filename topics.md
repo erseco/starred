@@ -461,7 +461,6 @@
 ## cli 
 
 - [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
-- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
@@ -1096,7 +1095,6 @@
 
 ## markdown 
 
-- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [0xMassi/stik_app](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. One shortcut, post-it appears, type, close.
@@ -1123,7 +1121,7 @@
 
 ## mcp-server 
 
-- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
+- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - TypeScript monorepo of MIT-licensed packages for lossless, type-safe document conversion across OOXML, OpenDocument, Markdown, EPUB and PDF
 - [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1237,6 +1235,7 @@
 
 ## others 
 
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) - Capture it. Copy it. Hang it all out to dry. A tiny native macOS app that hangs every screenshot, and anything you copy, on a line at the top of your screen, and finds any word on it.
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices
@@ -1937,7 +1936,7 @@
 
 ## typescript 
 
-- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - A family of independent, MIT-licensed TypeScript packages for lossless, type-safe document conversion (OOXML, OpenDocument, Markdown, EPUB and PDF) sharing a Zod-based schema layer, plus the CLI, MCP 
+- [ExaDev/documents.js](https://github.com/ExaDev/documents.js) - TypeScript monorepo of MIT-licensed packages for lossless, type-safe document conversion across OOXML, OpenDocument, Markdown, EPUB and PDF
 - [schemd/core](https://github.com/schemd/core) - Strict, bounded, server-side engineering schematic DSL compiler.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
