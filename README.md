@@ -118,6 +118,7 @@
 
 ## CSS 
 
+- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
 - [exelearning/exelearning-style-designer](https://github.com/exelearning/exelearning-style-designer) - A tool designed to simplify style development for eXeLearning 3. It is intended for programmers and designers with experience in eXeLearning, CSS, and JavaScript.
 - [cunhapaulo/MarpX](https://github.com/cunhapaulo/MarpX) - Try MarpX! It is still 'Marp themes', created with beauty and simplicity in mind. (like a Marpstyle 2.0)
 - [braandl/i18nInput](https://github.com/braandl/i18nInput) - Multilingual Input Field for HTML5 Applications to allow Textfield / Textarea wise translations.
@@ -456,6 +457,7 @@
 
 ## Python 
 
+- [es-ine/mcp](https://github.com/es-ine/mcp) - MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, ret
 - [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
 - [ateeducacion/curriculo_lomloe_canarias](https://github.com/ateeducacion/curriculo_lomloe_canarias) - repositorio que sirva de fuente de verdad del currículo lomloe de Canarias para otros repositorios
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
