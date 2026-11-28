@@ -76,6 +76,7 @@
 - [medicalopenworld/IncuNest](https://github.com/medicalopenworld/IncuNest) - Low-cost, open source infant incubator
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [labuhardilladelloco/Bad-duck-esp](https://github.com/labuhardilladelloco/Bad-duck-esp) - Solucion a la distribuciónd de teclado en Epañol
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [Team-Beef-Studios/Lambda1VR](https://github.com/Team-Beef-Studios/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
@@ -448,7 +449,6 @@
 
 ## Perl 
 
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper3.0
 - [aspiers/mysqldiff](https://github.com/aspiers/mysqldiff) - tool and CPAN suite backend for comparing MySQL database schemas
 - [DE-IBH/imvirt](https://github.com/DE-IBH/imvirt) - detects several virtualizations
@@ -457,9 +457,10 @@
 
 ## Python 
 
+- [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) - let your agent control your phone
 - [es-ine/mcp](https://github.com/es-ine/mcp) - MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, ret
 - [albertomf1979/wcag-accessibility-agent](https://github.com/albertomf1979/wcag-accessibility-agent) - WCAG 2.1 accessibility agent built on Anthropic API. Audits, evaluates and fixes digital products for UX, UI and development teams. Includes an installable Skill for Claude.ai and a full CLI with PDF/
-- [ateeducacion/curriculo_lomloe_canarias](https://github.com/ateeducacion/curriculo_lomloe_canarias) - repositorio que sirva de fuente de verdad del currículo lomloe de Canarias para otros repositorios
+- [ateeducacion/curriculo_lomloe_canarias](https://github.com/ateeducacion/curriculo_lomloe_canarias) - Currículo LOMLOE de Canarias (Infantil, Primaria, ESO y Bachillerato) como datos abiertos estructurados y versionados: competencias, criterios de evaluación y saberes básicos en JSON, CSV y RDF, contr
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [meteo-montflorit/meteo-local](https://github.com/meteo-montflorit/meteo-local) - Temps a Montflorit (Cerdanyola del Vallès): codi i registre de decisions de la web, «Si surts» i els avisos a Telegram
